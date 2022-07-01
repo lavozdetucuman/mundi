@@ -1,0 +1,14 @@
+[ 
+  {
+    "name": "ARGENTINA",
+    "samples": [
+      {
+        "icon": "",
+        "name": "prueba",
+        "uri": "123",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "13123"
+      }
+	]
+  }
+]
