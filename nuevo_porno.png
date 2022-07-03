@@ -361,12 +361,10 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
-       {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
-        "name": "DAZN F1",
-        "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q7V9enJS1lEqwJBkJ+dRKBNYGR7Df5RV66Yy7Gb0gJ7T"
+      {
+          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+          "name": "DAZN F1",
+          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXvn/5155xjDZ1+0xfH6jY1hVCPoLplpYkGNe8dUMX7INw=="
       },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a85.png",
