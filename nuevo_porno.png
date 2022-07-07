@@ -572,6 +572,11 @@
       },
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV",
+        "uri": "C5zbP410ReZmY3DjtWWiKFnQbhq0WHWVS/YQVceW7ig802hPmbhI8qPt3k7TPtv0Lz073xR4TYpQGyMOp5BJ+A=="
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
         "name": "VTV PLUS",
         "uri": "zPjN/mC4e9usT7mbOj5yg7CYB6NUTC5HYXewxfdhJ2WJJDYTYxKmCjHfOCvMKZbE",
         "drm_scheme": "clearkey",
