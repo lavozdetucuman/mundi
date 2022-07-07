@@ -237,9 +237,9 @@
         "uri": "vriUr3OKz1kVyrTiqBzoN/7EMUq7Nn8KdIyHmnuL2drfV1YrOeV3MDPQZwWcZ2lB+wQeB3rOdbPncNXZzIcAV4Whw/OEYRv0j6AZjDVXnL5cFSmIhHhdTTZ0W0LiGsH0Q+ZluVgy3YYknQlXuNsTRA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/9linkima2.png",
-        "name": "9LINK",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFVAWZN3LMllc39+vKLrIdswMIRHgND/yYnLzwfoSMNMBgqj7m5aMLqgYUCCCcZrX7MXtusTeLwghFJQ3mi3SYed"
+          "icon": "http://static.dplay.tech:8080/imagenes/9linkima2.png",
+          "name": "9LINK",
+          "uri": "tJY6wT2z5XIDGg6lICThtEzxasbt5oDV7AsCh9hJe2C7I3GMa+Cg4X/xy+jJDvOUxVeQZD+iKPI8LQeTc2g7dQ=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7878/CH_LOGO/60/40/350/500/82348520072004.png",
@@ -361,7 +361,7 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
-       {
+      {
           "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
           "name": "DAZN 1",
           "uri": "C5zbP410ReZmY3DjtWWiKFnQbhq0WHWVS/YQVceW7ih4CUtcYX7BRv/3kro+w+0r+qCBxSPUWwnjTQaFtPMMAQ=="
@@ -571,11 +571,6 @@
         "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKi\ndkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z\n"
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png",
-        "name": "VTV URUGUAY",
-        "uri": "G3OYAsvwtSv059sQiz6Fh+dsIksaDCyMA9SiDHxJTY7hNQiK+ah6/8k4Kvefhibft3IUE35SwYV3QJLceu30C9LtPiVpA+ElvdmE/P5NaLw="
-      },
-      {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
         "name": "VTV PLUS",
         "uri": "zPjN/mC4e9usT7mbOj5yg7CYB6NUTC5HYXewxfdhJ2WJJDYTYxKmCjHfOCvMKZbE",
@@ -623,6 +618,13 @@
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiE8DOAqOFNtAAVi6DQ9DOdv"
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/wlZ5OQY1to32eYujOSoRD3dYF0vX7beMWHUCWcU6Wr5_xFt8KK-LXz4HvQmYR9L0SCA",
+        "name": "TUDN",
+        "uri": "GC2/ddPzLVut0fvk2/wB4goX8aK3dlw6jkqWAKJxC57j2YIoYljyZYNW41sGSlV2",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEC7Mk5UHxlphhaN5waFtOw"
       }
     ]
   },
