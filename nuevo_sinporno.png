@@ -468,21 +468,21 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJd6Hyh/a52iv0zs/UaJ8PM3g1tfi1DQP0EBy7suwzMhXQ=="
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/dtv1.png",
         "name": "DIRECTV SPORTS 1",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiGl8f1L00vuZvIbYncoahj5"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/6dd5978dc7c047eb27b932b8f50d1c5b",
+        "icon": "http://static.dplay.tech:8080/imagenes/dtv2.png",
         "name": "DIRECTV SPORTS 2",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiFr+Lt9u3E8q6sJ08HVFYZc"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/68150d12d02ab2a071327a29049a63b4",
+        "icon": "http://static.dplay.tech:8080/imagenes/dtv3.png",
         "name": "DIRECTV SPORTS PLUS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
        "drm_scheme": "clearkey",
@@ -619,7 +619,7 @@
     "name": "CANALES INFANTILES",
     "samples": [
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/36ca8d84-6901-4041-b5ba-226e38413714.png",
+        "icon": "https://static.flow.com.ar/images/266/CH_LOGO/60/40/350/500/31155375074343.png",
         "name": "CARTOONITO",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yLNJmmf7RhGlv1useYDooGhlfjrC5hWc491Yt86iQMSKCK3GfyiNGnkOy8PzWXlYQvLLUbVGU92wxb7Br+N/Jl",
         "drm_scheme": "clearkey",
@@ -797,7 +797,7 @@
         "drm_license_uri": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEkw20WDSfOQqcx9whzggxiDvtkWEFZPjTAcnH4tK4YKw=="
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/8cc2002a-d178-42bd-968e-210f772253b4.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
         "name": "CINE LATINO",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
         "drm_scheme": "clearkey",
@@ -1309,6 +1309,32 @@
     ]
   },
   {
+    "name": "ADULTOS XXX 18+",
+    "samples": [
+          {
+            "icon": "https://static.flow.com.ar/images/861/CH_LOGO/350/500/0/0/1187688407114.png",
+            "name": "PLAY BOY",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wBz8NK1X5vYrLFV67JSbh2LolF6AumA7Yi2nnl+gRvBYWFKQKw3cLLjbauuAEiBtQ=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeI0YNJWF4QrredrhvsgPe5FQF2wt0bCzM5T1/ywSe/Cw=="
+          },
+          {
+            "icon": "https://static.flow.com.ar/images/862/CH_LOGO/350/500/0/0/966764300744.png",
+            "name": "VENUS",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zT5ggpU/ChgZYLkNY/v4fbDvmYxkSyEvhyErKlO7tTil0e3HMoZR29q60JO37PjII=",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeMBe5S2glmLO/Nma2nriaQ6ETzS9Ga3SMl7Yd/iTgusQ=="
+          },
+          {
+            "icon": "https://static.flow.com.ar/images/863/CH_LOGO/350/500/0/0/2043466907628.png",
+            "name": "SEX EXTREME",
+            "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zsi6Nihb+FqedyFBUaxM2KGqRyEIdFUABC/4WPPCs5zMJyc8x538GATnFftIytcseo2B7OEid2gil34P+ARDWn",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeg0v41sWyS/P3+Cixlj2DxLqcMv9HxodsaNUMQaL2TlQ=="
+          }
+    ]
+  },
+  {
     "name": "MUSICA",
     "samples": [
      {
@@ -1347,7 +1373,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJdWkS6gHtJ7XQhsZLGJH5pW0Zk0wVT8y7zaRx1CSkiQxQ=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/89851195074330.png",
+        "icon": "https://static.flow.com.ar/images/7018/CH_LOGO/350/500/0/0/25297928074330.png",
         "name": "VORTERIX",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z3GjJCzSOqLw0qs3h/HsQrwJl39KjG3ojTbDevE1tRMvf+DSGHg3a3qfpuNuds0ViGY8IawCtuDcmHKnHlRF3k",
         "drm_scheme": "clearkey",
