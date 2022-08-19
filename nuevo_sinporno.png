@@ -790,7 +790,7 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/58c185c8d4f157f2b544c45472a5a2f8",
+        "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
         "drm_scheme": "clearkey",
