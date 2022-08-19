@@ -305,12 +305,12 @@
       {
           "icon": "https://bragadotv.com.ar/wp-content/uploads/2020/08/logoicono.png",
           "name": "BRAGADO TV",
-          "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXvSI76Vk9iFA0Xmp2QdhmeAIin7DXRC9DdJI1850X++UA=="
+          "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvz4H44MWkjc33pzs++oLNET5wngsqrHIoh3duAUecJxA=="
       },
       {
-        "icon": "https://raw.githubusercontent.com/eservicetv/playdigital/main/canal5.jpg",
-        "name": "Canal 5 EPS TV Regional Bragado",
-        "uri": "jYskNJejvIEAd8yZ50GUHPnMU4aNu7Pat9/oS7r5JXs1NzGNZQ2Nj+LzBwCe/70zYZ8kmf/+C+Qex2NCbzahkA=="
+          "icon": "https://raw.githubusercontent.com/eservicetv/playdigital/main/canal5.jpg",
+          "name": "Canal 5 EPS TV Regional Bragado",
+          "uri": "YLdKP1SZFu+rkCHhlDVHwrx/C4y4mheKmTmANvVkokvBnddJn3ChFNg26xl29MC2QqwTbsQW/0e0+nVw9t2Jv2n/Ij17NuN5PYYa2otVe+w="
       },
       {
         "icon": "http://api.argentinatv.live/logos/logometropolitanatv.png",
@@ -736,7 +736,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJe47lRMmVrNctUd8dmbVtoiUt0NumdJ/VRzR5mSakaebQ=="
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/a8c31550-80c3-49c3-bda6-385fa7882ac4.png",
+        "icon": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
         "name": "HBO FAMILY",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zxMaiJMRP6WCHjyZz9dvBrSMmqiLCSQozVvea8hUGyKwuSlqnV66FXQqqKwPcWOG0SWH7C/zQVRrAnkk2Pp/tW",
         "drm_scheme": "clearkey",
@@ -754,7 +754,7 @@
   {
     "name": "CINE",
     "samples": [
-     {
+         {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
         "name": "UNIVERSAL CINEMA",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
@@ -762,28 +762,28 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/17e6fb07-1a95-411c-8ae5-2a408142ad6e.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/e6b10211-c3ed-4f58-9553-8bafdb3c7c84.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/5a59c443-ff70-4c4b-b624-de441a7a463d.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/7e107481-768a-41ee-889c-7d1ca80b2cd2.png",
+        "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_scheme": "clearkey",
