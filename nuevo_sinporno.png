@@ -1745,7 +1745,22 @@
   {
     "name": "GUATEMALA",
     "samples": [
-       {
+      {
+        "icon": "https://zpapi.zetatv.com.uy/media/images/1.1c5.6.png",
+        "name": "TCC 1",
+        "uri": "jYskNJejvIEAd8yZ50GUHPC1jzV/FrRaoYVsAoAFz6WJqARXAhGL8ZeYTOIDJ18K"
+      },
+      {
+        "icon": "https://zpapi.zetatv.com.uy/media/images/1.1c6.6.png",
+        "name": "TCC 2",
+        "uri": "jYskNJejvIEAd8yZ50GUHHx5T8xLIg/NdxGlSDzmD0880b6qIGDdzaF8/FZJw2XH"
+      },
+      {
+        "icon": "https://zpapi.zetatv.com.uy/media/images/456.png",
+        "name": "TCC 3",
+        "uri": "jYskNJejvIEAd8yZ50GUHAJaopTxlyDZWjD/lHWLHGIR+CDdmtb231xzC3HZ7BFl"
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Canal3.png",
         "name": "Canal 3 Guatemala",
         "uri": "iicgLd6bIwcaG9MREltcK9zDIpV/ggt8UL+6Ff37BX1IJwqvgj7eiduYcr+xYCjvGsaj+bSMNUmwk2VS6RRyqLboh1LPEacOxq6RQX4tAZw="
