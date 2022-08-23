@@ -374,7 +374,7 @@
         "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/ac8c5fc2-b457-4784-8911-6b8cecd2b12d.png",
+        "icon": "https://static.flow.com.ar/images/3543/CH_LOGO/350/500/0/0/45176151073950.png",
         "name": "TNT SPORTS",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zv2CKQjXsDhUQfJMJMecEe1veXOGN2g2ogG51i7ACMEY8c0YiKS5DMWZ9lXOl329z+S60BJgX9qAx6rLvn/jv0",
         "drm_scheme": "clearkey",
@@ -426,21 +426,21 @@
         "uri": "IItvvKTdC2OPLJa2sxAI3W40bN/0bFXtAwJoF3XUhqaiQ01y5hdc/kPQOvt1KkPQ"
       },
       {
-        "icon": "https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/3044145807979.png",
+        "icon": "https://static.flow.com.ar/images/73/CH_LOGO/350/500/0/0/8430207607979.png",
         "name": "FOX SPORTS HD",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3eMxJeKBbxYPemMIJOMANzRBAF7f43nAU2tMO3RFQ0S+G/N+Q9U7EDAndGr1XEXdq",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeefMAWTlhk4DXkDLj9dAl4eDSGZ2Pgbaw1rJVy4PVvPg=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/17148449072785.png",
+        "icon": "https://static.flow.com.ar/images/292/CH_LOGO/350/500/0/0/59128486072785.png",
         "name": "FOX SPORTS 2 HD",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3njG8+lP8bbVUx39am16FPP47hFeiWaZVxPKOH5ON1w5zQusKh1O7qkWPK/dI1F5k",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJeefMAWTlhk4DXkDLj9dAl4aMjr01dwolEC5C4GbbcLcA=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/56828142072366.png",
+        "icon": "https://static.flow.com.ar/images/293/CH_LOGO/350/500/0/0/12829972072366.png",
         "name": "FOX SPORTS 3 HD",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xxFS0Bm9gyvukuNz+/Icj3f5arvKzMd0QXVIshrk9DZ4mim39zwq7/zL5O8RJDgn9RYGeaNxTFGQyU7Hcv/tO1",
         "drm_scheme": "clearkey",
@@ -747,7 +747,7 @@
   {
     "name": "CINE",
     "samples": [
-     {
+    {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
         "name": "UNIVERSAL CINEMA",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
@@ -1068,7 +1068,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam++HGTAQM4c/tHjXmb9rWJflIQfKPy6SmWdw/nGk8hujTXVEL9aL3flrYA4+eZ69/w=="
       },
       {
-        "icon": "https://static.flow.com.ar/images/300/CH_LOGO/350/500/0/0/18355579072710.png",
+        "icon": "https://static.flow.com.ar/images/300/CH_LOGO/350/500/0/0/88913423072710.png",
         "name": "NAT GEO",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wxLJ9azyzwA/s9rPORwc7Jh+5+UtYTul3OcJdoZmZPYW3uVcXG72jZJ0xWoG//Rn6NfM1GQ51lqJsbxcYggVIW",
         "drm_scheme": "clearkey",
@@ -1578,7 +1578,7 @@
   {
     "name": "PARAGUAY",
     "samples": [
-       {
+      {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
           "name": "Motorcross Primera Division",
           "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
