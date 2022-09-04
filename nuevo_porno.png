@@ -343,7 +343,12 @@
   },
   {
     "name": "DEPORTIVOS",
-    "samples": [
+    "samples": 
+      {
+          "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+          "name": "DAZN F1",
+          "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3/WASG6EWH0MX3lLR9430p"
+      },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
         "name": "DAZN F1",
