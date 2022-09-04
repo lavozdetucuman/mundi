@@ -347,9 +347,9 @@
         {
           "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
           "name": "DAZN F1",
-          "uri": "geTeRhlzRQgHHlhCl90rVLM6cpe39gU8535BWiymI9cu+Cnysu9cxqaf7IF5mYvB1BGDN/YG6GUVieYfA0eE8FcHKwfT8A4l6bpU2aQAcnqNpXcPyURAeOEx6yokhVrOajMBZzJ5WMPT1vdmBuYmkA+a+1C18Q0yIt/Wk2nJT5kA8vnCwMdnuuSq3i+AMToErsm+nV0R0j40UWFyRa1Cnw==",
-          "drm_scheme": "widevine",
-           "drm_license_url": "1RkZCOryVmTaRVCtJs09hnGM1wGVJMFkvvfYMVHWLnpp/etbEEq8S88P0y0YnOcd"
+          "uri": "aQzLS6e/EXA49dg60WEabo4/hMKFISbucu8mDLhKS71baPNf17eMjmvC4vSIU0JoMkY/pUggNdsp7I7iYdY0yqACZMCOwBJ0YOeqrM6d1kmyEqVOkT4fgLoqi9Dw64CVvoc2Gr3iP98IP+kfJwVlk7jVxmLLxQ2YfQp8MLUm+lSeHYbWfYDp67LZVUrANcrv",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZdn1N05WtlxoVRJudcVOOk",
+          "drm_scheme": "clearkey"
         },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
