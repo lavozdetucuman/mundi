@@ -737,47 +737,54 @@
   {
     "name": "CINE",
     "samples": [
-      {
+    {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
         "name": "UNIVERSAL CINEMA",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q=="
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA=="
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg=="
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ=="
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w=="
+        "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiEkw20WDSfOQqcx9whzggxiDvtkWEFZPjTAcnH4tK4YKw=="
       },
       {
         "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
         "name": "CINE LATINO",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
         "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6eXFoqOpysOT1NbYfC5QiHUcZ8Fv3NI75Kd32HWynJkHmWOjVYeAzlapmXRxtSA1A=="
       },
       {
         "icon": "https://static.flow.com.ar/images/267/CH_LOGO/350/500/0/0/75126015073445.png",
