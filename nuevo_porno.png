@@ -1107,8 +1107,9 @@
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/31648f06949b256611b42ed4cbefdbf1",
         "name": "Smithsonian Channel",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam6q4cY8jz6kMQgW69iqw5mT/Zvlqcd9yYh1nxE0LSCEB"
       },
       {
         "icon": "https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png",
@@ -1141,20 +1142,23 @@
       {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1654531921068",
         "name": "ON DIRECTV",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnX7/SqT58b7YDx+OBYnsBzcM7j8nrdTNYpKG+2JIM95PQ=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam2ZQmyAXuFi/yqAiI7DiycMgZh6ivFdJSLz8iyLnQTRN"
       },
       {
         "icon": "https://static.flow.com.ar/images/667/CH_LOGO/350/500/0/0/846786600758.png",
         "name": "CANAL A",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw==",
         "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUNsEtM3yXC+SFsVKGO/UFHwgDo0M8B7pNy2lljL6rsgw=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7z0oKNd0qUtUxj4Ptflvl/"
       },
       {
         "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b6e64e59-62a5-42f7-a2ef-9b1e146047cf.png",
         "name": "IVC",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
         "drm_scheme": "clearkey",
-        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw=="
+        "drm_license_uri": "HCZtbqzut9luoVOjrMqam0BWMcd9lMXmvP8Dm8HsVLuiFrxN9itToxuuFxOaJIlZ"
       },
       {
         "icon": "https://static.flow.com.ar/images/1254/CH_LOGO/350/500/0/0/6858782907349.png",
