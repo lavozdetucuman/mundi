@@ -1812,13 +1812,7 @@
   {
     "name": "BOLIVIA",
     "samples": [
-      {
-        "icon": "https://px.cdn.reduno.com.bo/reduno/122017/1544505888786.png?&cw=600&ch=365",
-        "name": "RED UNO",
-        "uri": "6ZLpavMq5F7futjIQOCVAaVZM6xpPIVr8hTUEFo87QmX/CUDs8NYKwsi9O97SswIOd8wCRP7C0skJIyN5YGdsA=="
-      },
-      {
-        "icon":         {
+        {
           "icon": "https://upload.wikimedia.org/wikipedia/commons/e/ec/ATBBo2020Logo.png",
           "name": "ATB SANTA CRUZ",
           "uri": "snJBfCwjCnBKge524PYrd0e6r/2da66SM7rwAMKq4PrffQmEuTmDGziHPlqt/U/T"
