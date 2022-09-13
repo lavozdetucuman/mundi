@@ -2097,56 +2097,121 @@
   {
     "name": "PERU",
     "samples": [
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "PAX TV",
-        "uri": "cbZBhF30U8I0CNhOCey5GkAFA2CSqdmTSij3dOKdwhy+c+9HLvIkg0uinkrvt0je9EuBCLRU0OB77eWUt9cO2XnP+ne53vSrtOGhTDV8R4c="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "ONDA TV",
-        "uri": "+3HhglvPuDSYngexrPgnCk/8fIVWkpv4B+pDXTmp3j6nXtbWBp6MivBmKnY/i9jYfrYGRmncF0bKNqxUN+IH0PqqXqUUpOGNN66eExupBv8="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "TV PER� NOTICIAS",
-        "uri": "85wbMCT+JLwIVPf5uLLyvk8GyD2R9/Mqdfmz5Yr+EPMkxooQ+sqr7L0Q+PQ7fnvYKva+O8Bu0qXcttgZ0zhUkg=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "CABLE PER� TV",
-        "uri": "APdyGVbueEHsTCmM2A6ZKTx0C2qhtPP7YbAJ1A6GEfL6+YMVVL907We/Il5V6l65jd6Ck+Xc/3brjedY8hRH3Q=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "CULTURA TV",
-        "uri": "CgPwmSc9e/3fBYTq+DXxfvCo1NZ8/mk16/ttPSzyQxTxgZY8ViCT6bLkeWkqbkrKAkwXdYekYorGoRel0btzFcXoxcuDm04G8JhMZf9YGzY="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "IDENTIDAD PERUANA",
-        "uri": "85wbMCT+JLwIVPf5uLLyvk8GyD2R9/Mqdfmz5Yr+EPPU1GkxvekA8g3ZU6llpZoZyMll88GTUd3cYjINJBtiHg=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "USMP TV",
-        "uri": "CuvBldJe/XHMXP8jrWc5gWIYQQ39Ts8NWHlelrqH5KTloMyGql7RTBbkwgY4lo9k"
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "TV PER�",
-        "uri": "85wbMCT+JLwIVPf5uLLyvk8GyD2R9/Mqdfmz5Yr+EPNA1n+w8qET0oYSQb8SIv1ds4v5CY5ZogJfl9i1LBbX8w=="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "ONDA DIGITAL",
-        "uri": "+3HhglvPuDSYngexrPgnCk/8fIVWkpv4B+pDXTmp3j6nXtbWBp6MivBmKnY/i9jYfrYGRmncF0bKNqxUN+IH0PqqXqUUpOGNN66eExupBv8="
-      },
-      {
-        "icon": "https://asahimotors.com/images/nodisponible.png",
-        "name": "PAX TV2",
-        "uri": "cbZBhF30U8I0CNhOCey5GkAFA2CSqdmTSij3dOKdwhy+c+9HLvIkg0uinkrvt0je9EuBCLRU0OB77eWUt9cO2XnP+ne53vSrtOGhTDV8R4c="
-      }
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/6/66/Paz_TV.png",
+          "name": "Pax TV",
+          "uri": "oxh8ROTPnm7iBCu6rJiWHoRzbaOnqNX6lVWK/oL8CSRkn4keLcsFHtybA1IcQMQyYoc+9QW6ZX4s/XPeIaGru2BQ91FPdZ8pMfmMh/3Yl6W8DwSCpYFnuATZKtvv1wZS"
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/bhtvperu.png",
+          "name": "BH TV",
+          "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
+        },
+        {
+          "icon": "https://ondadigital.pe/portal/wp-content/uploads/2017/11/LOGO-OGM-CON-FONDO-300x212.png",
+          "name": "Onda Digital 2",
+          "uri": "oMmwxD6faIKeCEo5aMfNBXaR+JaG7ig92kSgqlS98oYwto7SBDh5OSggd4EUIcUjxpDOGzIqbUFmkUokZnSpmA=="
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logo_tvperu.svg/1200px-Logo_tvperu.svg.png",
+          "name": "TV PERÚ NOTICIAS",
+          "uri": "2yfw3QkALk9hCqwgjidcsnv7jzt2plu0YGmDoL0NqyAE8myw6JfAzvSGS9flQ4AO"
+        },
+        {
+          "icon": "https://appnew.megainfoapp.com/files/1/centraltv.png",
+          "name": "Central TV",
+          "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbGtr7/meydwZZ3tOmAQM13LvDnahIt5YOObFqsRPdykYkTnud0TH+5MPQKHcT0DVlw="
+        },
+        {
+          "icon": "https://cultura24.tv/sites/default/files/inline-images/sponsor1.jpg",
+          "name": "Cultura 24",
+          "uri": "CgPwmSc9e/3fBYTq+DXxfvCo1NZ8/mk16/ttPSzyQxTxgZY8ViCT6bLkeWkqbkrKAkwXdYekYorGoRel0btzFcXoxcuDm04G8JhMZf9YGzY="
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Identidad_Peruana_ipe_2016.png",
+          "name": "Identidad Peruana",
+          "uri": "PqBsY6pFgaUJsGWz5fmydfBQtJqqHctFs3v5dXfezUPkGzc5WSu5oXfE3RSqH/Fn"
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+          "name": "TV PERÚ",
+          "uri": "PqBsY6pFgaUJsGWz5fmydfsdo2BBB7Y/FS+oBBRt9g4/Fhds4qh7JX7lgDpU/OSa"
+        },
+        {
+          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/descarga-1.png",
+          "name": "TV enlinia",
+          "uri": "ABynxaLD/o4P3f+AOFz9dR8rkz8obhunFzqweyKkVvcaNVqVxT/+QodvWj1rI3yJYIJssh4oYg69CQtPeqOIig=="
+        },
+        {
+          "icon": "https://s-tg.americatv.com.pe/f/desktop/img/tvgo-image.jpg",
+          "name": "TVGO América",
+          "uri": "mq0MV1iSU3/MhTaNU6Nti6zdiqHGlWJhSvFEYr+2Ad5pjqaE/XW25te2tSzQx7J07ODoaDwcDcqemC/iLRZlkA=="
+        },
+        {
+          "icon": "https://www.radiosperuanas.pe/wp-content/uploads/2017/07/radio-ovacion.png",
+          "name": "Ovacion TV",
+          "uri": "VwXjq1gPSjDP41YujNEnWTPVyfVKGTfgS8eZpVtRXbE3dkahz9suuJeCGjEAZqqqcGInGLpcFI1UpXLvPQSxePoblU4kiMs4K+1q+pT37JA="
+        },
+        {
+          "icon": "https://image.winudf.com/v2/image1/YXBwaW52ZW50b3IuYWlfbG93ZXBhbG1hLmFzaXJpdHZfc2NyZWVuXzBfMTYxNTI3Nzc5NV8wODc/screen-0.jpg?fakeurl=1&type=.jpg",
+          "name": "Asiri TV",
+          "uri": "htM/fOP9vPwAA4ER4TBsQB1lX16D0fB4AcWaQ9QzDkun1Db27hoMUPUY8axK3oNV"
+        },
+        {
+          "icon": "https://diocesisdesicuani.pe/wp-content/uploads/2019/09/Andes-TV-300x300.jpg",
+          "name": "Andes TV sicusani",
+          "uri": "Grkv+PEc8LMTbZ1Xu2HYJqWaK/iPJhf/a2MJPud68yhm/hvDOXTG3ih31yVdxK4aJFxRTvlfjFdcSXfbGbO2bg=="
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Atv_noticias_logo.png",
+          "name": "ATV + Noticias",
+          "uri": "2j6N6BBi9J6bE5vGneT8YCrYECrcyRQVIGHzryTtFwK3cr7d4dnEAtLfcxoC5ceYe7TEb/hGjnRMBCfuSkvlDQ=="
+        },
+        {
+          "icon": "https://autenticatv.pe/wp-content/uploads/elementor/thumbs/logo-web-p0scrodaccuo3azseya6goo9amqk8hdut43cbpqb5s.png",
+          "name": "Auntentica TV",
+          "uri": "CcVOGL/vthCTEyYOk6OA4y1P0VXIedjQ/rJNANEuz6HCjAixqJJW3n0d267mT9c3KgoDLH7XX78GsREFweXhhg=="
+        },
+        {
+          "icon": "https://www.retroplustv.com/wp-content/uploads/2022/03/logo_1.png",
+          "name": "Retro Plus",
+          "uri": "yF0EdVd+88DHMuZ8sYWbp98nithK/8ra19AEXtGHTOU82Mo/F3h/c4c0bAk9dDdF7TY5+1Wl5kycfCtxbDWVG3vxMXTAsiJsim+vPCqusyYC6RycXlxax3YAbst09tfk"
+        },
+        {
+          "icon": "https://www.coolstreaming.us/img/ch/image87580671255.jpg",
+          "name": "Canal 8 Catacaos",
+          "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
+        },
+        {
+          "icon": "http://static.dplay.tech:8080/imagenes/centraltvpe.jpg",
+          "name": "Central TV Chosica",
+          "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN8svixPW4bOp1EQ3pQZ3acrQvf6uvs4AqHjfmQNo4O5UIkoK6yqfGkkhVgpT3duGSUtA3oeMyk/CFwzJpdNMw3K"
+        },
+        {
+          "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Clip_tv_logo.svg/1200px-Clip_tv_logo.svg.png",
+          "name": "Clip TV Perú",
+          "uri": "N3NxMvfcEj2atuyg6Q2JSo0bHEous22DEExkQfdNM+47tNJmtfIuQ74i2h424VBVehw0dHE/l8E1z9H3VUDcag=="
+        },
+        {
+          "icon": "https://televisatvdepaga.com/wp-content/uploads/2017/10/contacto-deportivo.png",
+          "name": "Contacto Deportivo",
+          "uri": "v/+QVpTPW9vK4Po7lBbnNRCjoDgaZn0ndt79IQrw2tObivBulyg8+FWNjGMquubYAOiCcdjLRyB4b2lbdvEXDg=="
+        },
+        {
+          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/images.jpeg",
+          "name": "CR TV",
+          "uri": "CcVOGL/vthCTEyYOk6OA47ggbnzErRsJBWa9kfwghaTZ2A/YJN6kkr6MSMzmAFme3IGJO9wvBLWPFVLOX3RS+g=="
+        },
+        {
+          "icon": "http://visionplustv.com.ar/wp-content/uploads/2021/11/unnamed.png",
+          "name": "CMJ TV",
+          "uri": "kauYPVOnRFmrRlYNiq+LLweDKmy0ryn1sCI6QM7NZPa03jT5a1HMTSsLush/dLvt"
+        },
+        {
+          "icon": "https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
+          "name": "Genios TV",
+          "uri": "CcVOGL/vthCTEyYOk6OA405UGf3/i9zT4C7xEUuZhIWj61wzRjYGgWxKZrH9aiPpaRAhaBOCDWKSYhkR/WzA5A=="
+        }
     ]
   },
   {
