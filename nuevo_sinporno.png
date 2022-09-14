@@ -1544,13 +1544,14 @@
   {
     "name": "PARAGUAY",
     "samples": [
-      {
-        "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-        "name": "Motorcross Primera Division",
-        "drm_scheme": "clearkey",
-        "uri": "rdln+3sJuk5+YoW5Lpn8UFIQTkn1aT56jxBfUhFYncu5baPHVJTO79WDsZqoYPLmc5AJ/8bmI8j+mQMuxn6MTb8e7CF3V16nyDtl26OJe5jT5volR83teSWwIQaXU8eK",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbCCInXVLq9tv6WmsGbPQVb"
-      },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "Motorcross Primera Division",
+          "uri": "HCZtbqzut9luoVOjrMqam5DMwbatcvqQywRDWRfdyFDAsMBznjEQ2VD6m9KzPoJW",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbCCInXVLq9tv6WmsGbPQVb",
+          "drm_session_for_clear_content": true
+        },
       {
         "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
         "name": "Motorcross Segunda Division",
