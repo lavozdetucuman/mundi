@@ -1572,26 +1572,28 @@
     "samples": [
         {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "Motorcross Primera Division",
-          "uri": "QFEDHJQhSGnilkX0BzyAtxGjIw2zyAlIXUDrTA4XpZaL1DBg+Zj1zc+M6yW5/NcXfpWLd8DVBknpIsXskWzCnT8GteqCcoWICNX5XCmtK+d0iYpmcyzGzhh73uF9mm3A",
+          "name": "Motorcross Primera division",
+          "uri": "9h7+JngYB6NYrvnr44uzeu/XY4OSHBUF5q4jHUaOU3tn3DFGZly4A6+GLGSPLI/D",
           "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbCCInXVLq9tv6WmsGbPQVb",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr",
           "drm_session_for_clear_content": true
         },
-      {
-        "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-        "name": "Motorcross Segunda Division",
-        "drm_scheme": "clearkey",
-        "uri": "PL1FExyMRiDGt3y9DensFUfxNK0av7oEWKUy/KL4vppJYLJ6FRYQHuOxK5bszXHX9OeuNg0igcxZo1F+X1l1ocnV0bPy/fRLWcldsY5LUuzkFjBh0A7uc1naF1djkCNF",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbx8MFipE19rE4Gh6KI0o4K"
-      },
-      {
-        "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-        "name": "Motorcross Tercera Division",
-        "drm_scheme": "clearkey",
-        "uri": "TQp8U4WPNizfH0YKTUVMu3cWnZ7Cb8hCZ/WuxSX3wOa/pFB+DcK1YvLvKNCuKsrJTMBuNtvwUQ3PIiMjMcMyw5YByeIeok9AHqFM9MJDg9V3GhM3Zvhvy35Ok8d+S6Pm",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam8n4ScSbU7xdT0XQnzKhZNeWQnBCDiNhg3MgW6qkUvvN"
-      },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "Motorcross Segunda division"",
+          "uri": "9h7+JngYB6NYrvnr44uzertT/07glGJzshX5LRU/1qrMLtEChBBkuU6PvVyCySNT",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
+          "drm_scheme": "clearkey",
+          "drm_session_for_clear_content": true
+        },
+        {
+          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
+          "name": "Motorcross Tercera division"",
+          "uri": "9h7+JngYB6NYrvnr44uzepZ/MzjB9TX0EALMV8vbOaig2IaOyhevUwpCb76+njxW",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV",
+          "drm_session_for_clear_content": true
+         },
       {
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
         "name": "MOTOR SUR TV",
