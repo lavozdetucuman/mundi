@@ -1570,27 +1570,11 @@
   {
     "name": "PARAGUAY",
     "samples": [
-        {
+      {
           "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
           "name": "Motorcross Primera division",
-          "uri": "9h7+JngYB6NYrvnr44uzeu/XY4OSHBUF5q4jHUaOU3tn3DFGZly4A6+GLGSPLI/D",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2Lid1Lchke9mxMDF7MpUr"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "Motorcross Segunda division",
-          "uri": "9h7+JngYB6NYrvnr44uzertT/07glGJzshX5LRU/1qrMLtEChBBkuU6PvVyCySNT",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYivZzpa1tOuJAir5RX0aJ2",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "Motorcross Tercera division",
-          "uri": "9h7+JngYB6NYrvnr44uzepZ/MzjB9TX0EALMV8vbOaig2IaOyhevUwpCb76+njxW",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuEAANGZtg+6QkmB9YwusV"
-         },
+          "uri": "NWfnI5li2AgNLuBN0nbJIJ7bXQ4p5d7xij7Dpf0dGf6HyRVnE8W1Phamm+w12iwh"
+     },
       {
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
         "name": "MOTOR SUR TV",
