@@ -2739,6 +2739,13 @@
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
+        "name": "TV PUBLICA",
+        "drm_scheme": "clearkey",
+        "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPlAwf9uT0pFLYvmw0lZimpvYVCXbBnMs18cHHcHHCCJHlmIvEU+iT2tMKXOfJAsq0",
+        "drm_license_url": "eRu46h8kxVLWNzlfht/1OJQ34AFeu8tpgSMesc2pX7EgpPq3lxMt4zOuW9qe2lAU"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
         "name": "TV PUBLICA OPCION 6",
         "uri": "iPeoYYZ1jn0KkumPEHy+oAnrEmRU/eOzBhDnnZnXLN8I5YnFdTM+6ogzzM9hFIfPQmctd6yuZfIhdb9L1DDMQ8mRR2XgqPtFdIp2ezqf4/Y="
       }
