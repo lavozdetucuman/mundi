@@ -139,7 +139,7 @@
         "uri": "0u7RtaCoyz0sIDXu0NxHuVH9z1NMt9YE6cZ5GnmYJRQ3JdzgxpVHnAzSWhhOWOC2oKVYrehrHqY5JTSXq634ncGnZAItHDGz7gpNh00xn3A="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/sptv32.png",
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
         "name": "SAN PEDRO 32 TV",
         "uri": "u7cxOzG/nXH3O1BIo51NoIBnVbRilPN6L3PjUc0kjBkI8DV04mD+WrMHMS2KKD6h4BMZ2Biwk+YQT7Cz4tskmg=="
       },
@@ -345,7 +345,7 @@
     "name": "DEPORTIVOS",
     "samples": [
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/daznf1.png",
+        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
         "drm_scheme": "clearkey",
         "uri": "XCAa2za6nPqIzLiQ5Z3jEGonX/jLC0ytdSXdQrr9gHuaS1tTMUrjJQaoR4Fd7gd7ai9kCzV9IknXaqy8v8mye2p2Hptn5V6sdEZqvAHDCVU=",
@@ -458,21 +458,21 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UsWbZx/huLur6g1LTBeSStc/hqQf0rEjQe3EWLmIrnYZA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/dtv1.png",
+        "icon": "http://static.dplay.tech/imagenes/dtv1.png",
         "name": "DIRECTV SPORTS 1",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/dtv2.png",
+        "icon": "http://static.dplay.tech/imagenes/dtv2.png",
         "name": "DIRECTV SPORTS 2",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/dtv3.png",
+        "icon": "http://static.dplay.tech/imagenes/dtv3.png",
         "name": "DIRECTV SPORTS PLUS",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
@@ -752,42 +752,42 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwM8FTZdJniw+9jYPUfQGtaE"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/uncomedy.png",
+        "icon": "http://static.dplay.tech/imagenes/uncomedy.png",
         "name": "UNIVERSAL COMEDY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVbA57AsmprxVLRMEtr75/myEF922Qy3jG79h9rTel4sA==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwN8cktx8M3UrIBqmwMaNJht"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/uncrime.png",
+        "icon": "http://static.dplay.tech/imagenes/uncrime.png",
         "name": "UNIVERSAL CRIME",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXkcCZ/trMWk4UzJffm3zTdyAWHPg/OsDxUTQys+QyfWg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPOrHHxQUeeAw7Y+VvQI+6A"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/unpremiere.png",
+        "icon": "http://static.dplay.tech/imagenes/unpremiere.png",
         "name": "UNIVERSAL PREMIERE",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnW9z4Se5t1zlSpxDQb4JlWso4Dz+EhuRtfe/bYmzub8GQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPp8EMbNtyrvbdB1IIIHsA8"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/unreality.png",
+        "icon": "http://static.dplay.tech/imagenes/unreality.png",
         "name": "UNIVERSAL REALITY",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUBl0U4gOrzzH2ANRQIdc7DjoLQ2GnIQ/6eFuOftlLK+w==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXA+M8WSN4c+Oj17ek8dktwPw1JZg8LfI5n047VHwVDxY"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/tvcortoslog.png",
+        "icon": "http://static.dplay.tech/imagenes/tvcortoslog.png",
         "name": "TV CORTOS",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnUN33X0BnMOMR1YQCYLBNeodUbAoNuPY79W8Daku2E2Eg==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdecuLsv5tax4Zo3wrkiBIJlc"
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/cnlatin.png",
+        "icon": "http://static.dplay.tech/imagenes/cnlatin.png",
         "name": "CINE LATINO",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smm4iTLHR/9Z+BPhxxVyJw140LWcXTAfL/wRMR4QBL3RDg==",
         "drm_scheme": "clearkey",
@@ -1259,7 +1259,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us3zwWfx69y3z/wCX8quln43QVISlvX4lavnK6CgRw4Iw=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/santamaria.png",
+        "icon": "http://static.dplay.tech/imagenes/santamaria.png",
         "name": "SANTA MARIA",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yCTKoKo+hV4m8q+u+V4yRWlj7ZlPQlTUfm7HxJkg08eDMtc69nfsq4ngM5NJfkZct/49X2FRYoPQJWby6eF1J7",
@@ -1273,7 +1273,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UstZV4pvAJWPDs9cRXu+vJC3tFu0zrlYd4iGrg/Y4h6Zg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/icontiktok.png",
+        "icon": "http://static.dplay.tech/imagenes/icontiktok.png",
         "name": "TIKTOK CHANNEL",
         "uri": "u7cxOzG/nXH3O1BIo51NoLL3NPaVDdkqZPk/0ODahttOCeQVxT1DUIXJxnoDN17mAJJZtdjCDvPc7pLMdr1WLA=="
       },
@@ -1318,7 +1318,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UtMR6rYQ9uVf992FoyyIsPErtCXyMVjVDiKEWY8c6qeTg=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/MTV_00s_remaster.png",
+        "icon": "http://static.dplay.tech/imagenes/MTV_00s_remaster.png",
         "name": "MTV 00s",
         "drm_scheme": "clearkey",
         "uri": "tCCYHaXdfeE2UXGmWEN+OO7wH88Hjyht64V/srSwoG3WkC0ykCCU5B5kXL6WF93SrWQxk04Fed0JgF/FCI/yflIcwS1Tptt4idI1mFWXc0E=",
@@ -1721,7 +1721,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam26XvHOZ7J69pTcsITBASwBL63Rimw0Jg0dX/w7ZhXzwRBi0HUZYewE+yoGIR/dEcA=="
       },
       {
-        "icon": "http://static.dplay.tech:8080/imagenes/tvciudad.png",
+        "icon": "http://static.dplay.tech/imagenes/tvciudad.png",
         "name": "TV Ciudad",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xBMvIrxPdxlukDRQOqWeylx7SQnSEZNnnwf3CYA7c9j3v3vbM+pNzcPfxvFNra7DCLmN8WFVcO2daytMoqNE97",
@@ -2050,7 +2050,7 @@
           "uri": "oxh8ROTPnm7iBCu6rJiWHoRzbaOnqNX6lVWK/oL8CSRkn4keLcsFHtybA1IcQMQyYoc+9QW6ZX4s/XPeIaGru2BQ91FPdZ8pMfmMh/3Yl6W8DwSCpYFnuATZKtvv1wZS"
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/bhtvperu.png",
+          "icon": "http://static.dplay.tech/imagenes/bhtvperu.png",
           "name": "BH TV",
           "uri": "yKU7mKLG58CyewwIxfVakQTzcTHp2kddN0xta+fXB8ZG02OqvbjqYIQzT08Ce6UhCt+RLez5uwo0AiVPZk2n1g=="
         },
@@ -2125,7 +2125,7 @@
           "uri": "CDTDa1wj7pAITKbpAU/TgXhVTLgNUfqAwsrzpMsOptX2nQvP/4DSbNPdQypzo2cIHEOJrum6QCPiU4e9y1yjjQ=="
         },
         {
-          "icon": "http://static.dplay.tech:8080/imagenes/centraltvpe.jpg",
+          "icon": "http://static.dplay.tech/imagenes/centraltvpe.jpg",
           "name": "Central TV Chosica",
           "uri": "kGW/JXUaWanSloCoCVlD6B5Wu/xgEgl2/ILBw9rWxN8svixPW4bOp1EQ3pQZ3acrQvf6uvs4AqHjfmQNo4O5UIkoK6yqfGkkhVgpT3duGSUtA3oeMyk/CFwzJpdNMw3K"
         },
