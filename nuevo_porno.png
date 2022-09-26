@@ -120,6 +120,13 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWBh20iAYAjoTHkpHZrhxaN6ag18N5uWOVsnQvRfpnTYTXDaCYV86oezYSTpZ9R6s=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam0GvLijHnOFGcg01S0v7WHU4LmNXBa9PmTMl5Au5HfOL"
+      },
+      {
+          "icon": "https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
+          "name": "DTV",
+          "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yEC5qpamRrREuBe+gFO9vuwCS/Ygnob66TNviyEqjrEb3y+WrFN8HdGdLgC6ey0n1WB1tUwwVQVkCaGpqa70VT",
+          "drm_scheme": "clearkey",
+          "drm_license_url": "HCZtbqzut9luoVOjrMqam8aw2t6GCTTLaL/JUw6bzh76KsOSZwE7ONQ7/EBLGjwQ"
       }
     ]
   },
