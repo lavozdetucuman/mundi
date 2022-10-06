@@ -140,7 +140,7 @@
       },
       {
         "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
-        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA",
+        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA TV",
         "uri": "0u7RtaCoyz0sIDXu0NxHuVH9z1NMt9YE6cZ5GnmYJRQ3JdzgxpVHnAzSWhhOWOC2oKVYrehrHqY5JTSXq634ncGnZAItHDGz7gpNh00xn3A="
       },
       {
@@ -1107,7 +1107,7 @@
   {
     "name": "NOVELAS y VARIEDADES",
     "samples": [
-       {
+      {
           "icon": "https://static.flow.com.ar/images/9117/CH_LOGO/350/500/0/0/48405905077154.png",
           "name": "Bravo TV",
           "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWswNgJ3b/x7IOSdvg+4kYxQXFB0O/K1ztbczebspSc21Ob3oUSJ1/un1qeGPH1hwOM=",
@@ -1115,7 +1115,7 @@
           "drm_scheme": "clearkey"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/31648f06949b256611b42ed4cbefdbf1",
+        "icon": "https://static.dplay.tech/imagenes/smithsonianchannel.png",
         "name": "Smithsonian Channel",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVzdh3CSo5a/I15QplHtSVPJLkw3EY8U8bKRrlJS5g2jA==",
         "drm_scheme": "clearkey",
@@ -1164,7 +1164,7 @@
         "drm_license_uri": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7z0oKNd0qUtUxj4Ptflvl/"
       },
       {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/b6e64e59-62a5-42f7-a2ef-9b1e146047cf.png",
+        "icon": "https://static.dplay.tech/imagenes/ivc.png",
         "name": "IVC",
         "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smmmuECoBwKaUk2n+ia/C6ZNFr+yRDYE3bwTaCvh6fuAuw==",
         "drm_scheme": "clearkey",
@@ -1513,11 +1513,6 @@
         "icon": "https://cdn.webrad.io/images/logos/radioarg-com/beach.png",
         "name": "Radio Beach San Bernardo",
         "uri": "hTgSbAI89/cR6qMaKhqBq3PEJWWKHMmLM/EN3hFXZxua9aa46pTTx0wGgsm86dq0qcUqqze+jbJPofLPsJQJ4g=="
-      },
-      {
-        "icon": "https://lavozdetucuman.com/wp-content/uploads/2021/06/LOGOBUENO-300x100.png",
-        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA RADIOS FMS",
-        "uri": "iPeoYYZ1jn0KkumPEHy+oLEi/pTyEyoGk8LqgC5Hg3NGzWRULia7O6H2YkcvTe3PHFjk30Hblbg0ZcQEfvFdAA=="
       },
       {
         "icon": "http://api.argentinatv.live/logos/retrohit.jpeg",
