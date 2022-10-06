@@ -748,7 +748,7 @@
     "name": "CINE",
     "samples": [
     {
-        "icon": "https://images.istreamplanet.net/w_200,c_limit/dtv-latam-prod/078af29e-f83f-4850-9870-8829890b8656.png",
+        "icon": "http://static.dplay.tech/imagenes/universalcinema.png",
         "name": "UNIVERSAL CINEMA",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvqCOyrhUuWEEalf/TK/Bg5D/BHlp8MyR9zpve5X3f5Q==",
         "drm_scheme": "clearkey",
