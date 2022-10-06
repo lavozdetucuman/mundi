@@ -1554,34 +1554,6 @@
   {
     "name": "PARAGUAY",
     "samples": [
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 1",
-          "uri": "1RkZCOryVmTaRVCtJs09hpzgqs77T/ErptVF0Dwp2iFFG4YMFCSqpJI4BxUe20+T",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbCCInXVLq9tv6WmsGbPQVb"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 2",
-          "uri": "1RkZCOryVmTaRVCtJs09hkKZypDY7FCDDELBLs6ML1jnZ2Ztc0Nd5XKNSbvkYOXL",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXCFO/Z7ecmBVLEQsRD4NXmbx8MFipE19rE4Gh6KI0o4K",
-          "drm_scheme": "clearkey"
-        },
-        {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 3",
-          "uri": "1RkZCOryVmTaRVCtJs09hlbi57fhNNy9ntqBBljsSQvm3n+8hVTDzaOBs83ccsxP",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "HCZtbqzut9luoVOjrMqam8n4ScSbU7xdT0XQnzKhZNeWQnBCDiNhg3MgW6qkUvvN"
-         },
-         {
-          "icon": "https://img.freepik.com/vector-premium/motocross-deporte-extremo_157713-357.jpg?w=2000",
-          "name": "E 4",
-          "uri": "1RkZCOryVmTaRVCtJs09hgQfixt5vxPhaAF4GSRIgil6M8dDPTHC/v1tqPQrYVqi",
-          "drm_scheme": "clearkey",
-          "drm_license_url": "fKZDeeMII4hzzOisytLJXLDLgdDY5EEFbSPtZgxwpjofKOuQA055S/bDLoLqHHtX"
-         },
       {
         "icon": "https://i.ibb.co/4F7Y1G3/motorsur.jpg",
         "name": "MOTOR SUR TV",
