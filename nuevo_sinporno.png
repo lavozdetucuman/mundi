@@ -1505,6 +1505,11 @@
     "name": "RADIOS",
     "samples": [
       {
+        "icon": "http://static.dplay.tech/imagenes/radiomix97_7.jpg",
+        "name": "Radio MIx 97.7 - Siempre juntos",
+        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwyHWYs/JsHOiunKSOep3gEjLJymM1Wo/QLc9iibZxMz3A=="
+      },
+      {
         "icon": "https://www.nuevafmhumahuaca.com.ar/img/logo.png",
         "name": "NUEVA FM 104.1MHZ HUMAHUACA - JUJUY",
         "uri": "riB9Oq6BhPgPgHTemNoj01zKz9LW9AOSWnrg46Xj6BfLqG9c/IarnrddN8aahBTwiTXsbDPgwNu6O7L8hD9VpA=="
