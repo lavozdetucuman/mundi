@@ -608,7 +608,36 @@
         "uri": "U6NqFyLqAa/7gjAwOBrY9CFoWU/pbziYInx+rR5GQvQBmOvDBPjXRXIFjXiT89nP5MtM0jat8VYnybHE+7/JBpIgsKHxqCo/F+qhHVakYtXl7klNLTK91veDNK1en95v ",
         "drm_scheme": "widevine",
         "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLprpzN6kwcBFjLN6mzVQ80OBIbgIPxTT6CqkiFBkSf4m6Wr9OJfewSIulk/yA22//EUwo4SLZ0FQmgn4s3sxC8K "
-      },{
+      },
+      {
+          "icon": "http://static.dplay.tech/imagenes/dtv1.png",
+          "name": "DIRECTV SPORTS 1",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWPFUUFnJBD2V+4ONbQyzItCsiLgCee18nosEd7Fw52bQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYgzsNmTA8AJNCiN4wp5ZzA",
+          "drm_scheme": "clearkey"
+       },
+       {
+          "icon": "http://static.dplay.tech/imagenes/dtv2.png",
+          "name": "DIRECTV SPORTS 2",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnWkUrekaSs+Q1VQj4alcmFNm9Ymk2riLB4ts4v/qyqNQQ==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuga+rrV3NBzmmfcDDfTbN",
+          "drm_scheme": "clearkey"
+       },
+       {
+          "icon": "http://static.dplay.tech/imagenes/dtv3.png",
+          "name": "DIRECTV SPORTS PLUS",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYKSkh9kTmPzWUG++g6HI07",
+          "drm_scheme": "clearkey"
+       },
+       {
+          "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
+          "name": "DirecTV Sports Fight",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVDZjW/QAc9dYnwpNk8BdsndasIlxwYdYh4fijsPcoVIA==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbnggN24RnYWa39STzOK3uP",
+          "drm_scheme": "clearkey"
+      },
+      {
         "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
         "name": "TYC SPORTS (PLAY) 1",
         "uri": "uxY15lQHplqNf/4ok2223zFwXrCQtsRlIuB608ElUKaZSVqvx8zXN3r5XEcbEMGk1k+vhjuLjqKi\ndkhetXsXiWrqEcQj0MqvEoEA/3h1umDn6Eo4H5n7XfkoEtplD6+Z\n"
