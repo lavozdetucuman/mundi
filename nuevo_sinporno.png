@@ -2164,6 +2164,11 @@
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
       {
+        "icon": "https://static.dplay.tech/imagenes/granhermano.jpg",
+        "name": "Gran Hermano",
+        "uri": "5YdyVi+PL8QZpLM9X5Sumph7HRQt2biFK6DSejaQfcevdYlEZ0xiImIeb+V/hOKd"
+      },
+      {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Rk91Mtywmoh0uQJrNRU6-scaMhbEgm_W91uC4tH2GsMlidPfqKCG-nXbspqsNrEUPSw&usqp=CAU",
         "name": "COBRA KAI TEMPORADA 5 - CAP 1",
         "uri": "GWOVvOU5U2N3R+xEnrKtgK8SdsGNcIGAUbprz5BWuUYdopqGriaH8sVFBHVw9qTDHOR+4ddQOJUtYDFkKyPucA=="
