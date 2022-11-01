@@ -156,11 +156,6 @@
         "uri": "iPeoYYZ1jn0KkumPEHy+oGMj8zInDlKxV9cAO+2aOwUJNp1O5vMT5ZnQdNKXPqX3"
       },
       {
-           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
-           "name": "CANAL 9 DE MENDOZA",
-           "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
-      },
-      {
         "icon": "https://pbs.twimg.com/profile_images/1532029271610376193/CouxLUR6_400x400.jpg",
         "name": "MULTIVISION CABLE",
         "uri": "UhqpWSq8+5v9J/Iv0iqISreAsi29D0bhCASLoMUurnrLoJTsvv0NGNTtaWPVSJD+Qz7SG+dj8EUkG6Qm5xtbwHc0IFZGxAqSkIdB7X6XAjd9Rzxkn3f8B9VRYseMxF2x"
@@ -289,11 +284,11 @@
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zWeTayl5/sFTwCDRoR6g4vfS5xVDOsuuRboWHeENK3ddE30bFwzch+R2hzECtLJwKreP1MP0TjyHUNNeD8puu2",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamxGggpNcltJ2MSrP7FgGGhILS/pRcFidOSoAw9x6HtGBuh/GWwbZslL8b32v+Yikkg=="
       },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
-        "name": "CANAL 9 DE MENDOZA",
-        "uri": "b6mg2xbwaB6Iq0TEYt3S5iON4Nsct79PZXqayrxj3RqkEBglBSf0gkd14JaQOka5ptV8F2lY5Tk9KaQGcByY6OPuHmQ9ODl3qpRT9VpUR3I="
-      },
+         {
+           "icon": "https://upload.wikimedia.org/wikipedia/commons/0/01/LogoTelevida.png",
+           "name": "CANAL 9 DE MENDOZA",
+           "uri": "74dGg2EIRs63ic9NUo1OjJS85XJaZDWWpI38HTbbfAoSU9beqlmj6P+dSd0diVn7cRSx/T5FNgeD4LJyk81tC9AxqkOCE4cWug/54cVyGk8="
+         },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/7/71/El_Siete_MZ-1.png/revision/latest/scale-to-width-down/250?cb=20210526135529&path-prefix=es",
         "name": "Canal 7 Mendoza",
@@ -1383,21 +1378,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4z6bokQp0z5D6gZowUFbTVJPLTdzDaDPN3OdBJPPUqNly1llOrxGpA3s2LabbTv29s0EoE2UPwJsrW3aT92VHXf",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Us5HaFZt59TlHSDt5u+T0DyBnqn9z7h57XZeBtpNdBkGg=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/retrohit.png",
-        "name": "RETRO HIT 1027 FM",
-        "uri": "qfG1qjeFfPZKWDs9eMxwk7bJKzTr046V1pERZRE9kABi7eYkAMKkmqq4MpzzYZMEDLd+CTPzxPcEoBH965X5Eg=="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/radioformosa.jpg",
-        "name": "RADIO FORMOSA 88.1",
-        "uri": "b9u4klyilWWIJt4HQkXwC9LOnYJbyjKsftYlNnA1WFcsJ3BTiTtK4h0la0nBaaYv1SdYQWgCHVNHO+XguWs0a4m7gAV99n7uy2OCWJTJ6lE="
-      },
-      {
-        "icon": "https://aermultinet.com/iptv/logos/lasuperdiscoteca.png",
-        "name": "LA SUPER DISCOTECA TV",
-        "uri": "qge7AUjXpqwCcA0nOFO97UdDFlYZR6prnq11/v7bBAhqULx48aNlL2qk0nx+l0XkvkpAp3nc8M0ntOsaL+CpQEPazG8zxsSKe+dYjHln/9o="
       }
     ]
   },
@@ -1501,11 +1481,6 @@
         "drm_scheme": "clearkey",
         "uri": "wBSA6kDTej1G72N4d0yBwd5SWk5kfyIHFUWCsY7YwlxiYyheN+8vaFYqG/qmSabo2Br3I/1s1xi9l+Lg/0ckZg==",
         "drm_license_url": "p3w4YOr2vcNcc+A/yk81q2ELqhoJ/Kbag29tX0u06axQt07omDjlGEnSgGaXmpKv"
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
-        "name": "TELEMUNDO MIAMI",
-        "uri": "C5zbP410ReZmY3DjtWWiKFnQbhq0WHWVS/YQVceW7ig802hPmbhI8qPt3k7TPtv0Ys+hBlRqRAsE9SyG1C7ZBg=="
       },
       {
         "icon": "https://static.flow.com.ar/images/7117/CH_LOGO/350/500/0/0/96362376074301.png",
@@ -2556,7 +2531,7 @@
         "uri": "FIo+OYSGLPZqiTcxm13yogh+dGzy4tLIxWG7iQ8d3FoTP0EM2mK5+JOAle7/O4Qej9Jh2h/ym2q2qCrdEJm4gg=="
       }
     ]
-  },    
+  }   , 
   {
     "name": "CANALES CRISTIANOS",
     "samples": [
