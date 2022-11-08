@@ -20,14 +20,14 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0Bsj5EmF4XwNJEckbnYxh3Al4PRaQ89q2NGa/fuJe6pWSlo=",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zM2hzhChi4Kwv1HCJT0BsjHQ3+PVPqcTLRHJEhIOwkCVYVEEBf5anSkPi3WkTKbxo=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5rT9CEstTF1RW4WOGi9AtozPdxJHtFZ43NbPXFTT2ZZ"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png",
         "name": "TELEFE",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyueL4wE0Jqtu4vRS3TNBB/UiGKgEnQLN2kZZD0yblNKSbjQnnz4x04VHTY34z+p6NYLYOBZpmfErn6MLFTAkZ",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yZX7Rzp1Zmcsn+t+viIsEUDU0VWRD9Yp+1JleJzxv58J3bkrCWOgvhVSvAh8z+u3A=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqamwBaaHobU1j066yE9k8mBiyduqXnYBGTgOUkhowJI3+B"
       },
       {
@@ -41,7 +41,7 @@
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1280px-TN_todo_noticias_logo.svg.png",
         "name": "TN NOTICIAS",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjo1CeXCPkrsbMv/ISLo8ibAa++5qAlF2fjr+cEc/lUBgYwsutq79k94Jsdvubozd2NCl3b2UFtPNGdFR8P17P",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yCyVug7xGsO3hyJWmTshGIHzeCkgPd7pRue/aR4W+zB+rFbi98YXXleQCWGxQL/7IMSAEeRdmFxIcBHRfdohLm",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/tseZotSTjxnCYUAC6EXTqnn1V+VUsACpa56PCFYH0G"
       },
       {
@@ -113,13 +113,6 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yswH6Bi70WUHqZO+TxlgLtWzdD46NuDLX0/bwziwuXluNGmzvqxnK1MKP+huz03kqQJ9CE3mlBhHazn7l2c2VU",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam6pnd4BadbMszyn0CGbFcydgKEr7SdKyjsTw1kPyksb5vJraOFTTIIlk4crAgapiBA=="
-      },
-      {
-        "icon": "https://static.flow.com.ar/images/1029/CH_LOGO/60/40/0/0/18914232072197.png",
-        "name": "VIAJAR",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWBh20iAYAjoTHkpHZrhxaN6ag18N5uWOVsnQvRfpnTYTXDaCYV86oezYSTpZ9R6s=",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam0GvLijHnOFGcg01S0v7WHU4LmNXBa9PmTMl5Au5HfOL"
       },
       {
           "icon": "https://static.flow.com.ar/images/7097/CH_LOGO/60/40/0/0/58413014074320.png",
@@ -387,7 +380,7 @@
         "icon": "https://static.flow.com.ar/images/3545/CH_LOGO/60/40/350/500/92564610073951.png",
         "name": "ESPN PREMIUM",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wGT52mdeZ3SD1iRaW1YsEsrL/9o7RanpAtZhH3jELrewnnhceYtiVo9p0kU9KnD2HUf1qJ8t4bvkIoUHU0hvA0NDypQD19x9OeGk3MOObSBA==",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4wD72BnoY2lcokAA//b2ltPXHA9Ens+NqRvbFIzCOnCX19BDIHmWZQL6xFBSPfB1UMiYxtAQI/gMKBX2wM1kYfSCd+k015dj+Vu85ENn0RPRg==",
         "drm_license_url": "5YdyVi+PL8QZpLM9X5SumnXfVdiLbWmKfSu3LbQGVbf0MQTOkUHayICWw4qzZ96t"
       },
       {
@@ -467,7 +460,7 @@
         "icon": "https://static.flow.com.ar/images/74/CH_LOGO/350/500/0/0/78711436072355.png",
         "name": "TyC Sports",
         "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yjD6zvaSceFKgIvl+gmuBL8Dp+Ryu4IsVSZC+PBdj+MbfbQSHiwyDOn1hdC8p6W+XUs8Mkvibnk/+FqThVoNYh",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zyHP+yLc/d0yh+CpF8/cEnpc3lkgrrmmPJ7D3O3kiq33BdkQf8534j7WqdXtAuclM=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5UshYLj8eMQi8AnbqxKoXmlYrrn5g8wFsvatYKLR1jlLZw=="
       },
       {
@@ -861,6 +854,13 @@
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4yWbcelSA0xL/bK9rw0ou9XM0QLIwJzh7zV6WHSgeaIx1yCm0nJQNXCt0BkFllkUhw=",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam5s/6BXlssVkHouytKHc5Uusk1NAmAXuIJ2KqxfhJaa+2tNJZFN+4uLtzTBSifO98A=="
+      },
+      {
+        "icon": "https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/80/80/0/0/7149423107401.png",
+        "name": "GOLDEN",
+        "drm_scheme": "clearkey",
+        "uri": "GC2/ddPzLVut0fvk2/wB4ou8W+ZFPXpT4CskDGzkk0WykMZnmVX2ulK/IbawQosOZOLcrOmj81lL8CMY+TfdEQ==",
+        "drm_license_url": "p3w4YOr2vcNcc+A/yk81q3NY+ADyncKKnsBTaAxqbuwyyTe62E/YNivwck818bTN"
       },
 {
         "icon": "https://geo.edge.pontiscloud.com:9002/images/281/CH_LOGO/80/80/0/0/7149423107401.png",
