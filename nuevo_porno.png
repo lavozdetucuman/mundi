@@ -364,6 +364,11 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
+            {
+          "icon": "https://www.lavoz.com.ar/resizer/vHXY7zBjvSABn7LhqoycIrD1FZs=/1200x793/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/2MAHHX3HDJGGZJV7WN6FPCN7JA.jpg",
+          "name": "EVENTO - respaldo",
+          "uri": "ASOgYgTbt+xgq+EVBpD0mjmpuvRIN/BzrNFzBevwzbskYSQ4TmsIjvVFfzg2JmXS"
+        },
       {
         "icon": "https://www.lavoz.com.ar/resizer/vHXY7zBjvSABn7LhqoycIrD1FZs=/1200x793/smart/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/2MAHHX3HDJGGZJV7WN6FPCN7JA.jpg",
         "name": "EVENTO",
