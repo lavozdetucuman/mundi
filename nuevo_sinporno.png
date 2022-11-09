@@ -364,6 +364,13 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
+        {
+          "icon": "",
+          "name": "EVENTO",
+          "uri": "NkY2l+hkFgRLlIa9+Q6UgMg57XkFobgRptlLahsbahIbzuFma/+AUmWLAjkoch/03bbViEuVBAgEadEEKSezm0iZ6oa6muCAgwSrGu8Lm6mSQuXOO5SVA0e9TUajCXF5R0jlKDPftITuk/9o1rId8jz1bd9LfnhG6g3He7/tJrraIfsvDoXuDmqok4dxEiH9JW26mhyx0Hlobw8DLqePOQ==",
+          "drm_scheme": "widevine",
+          "drm_license_url": "1RkZCOryVmTaRVCtJs09hgf2i43ER/SVjOFIFyqFp+o="
+        },
       {
         "icon": "http://static.dplay.tech/imagenes/daznf1.png",
         "name": "DAZN F1",
