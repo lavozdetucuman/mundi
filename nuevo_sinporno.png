@@ -479,25 +479,25 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam3iioQv35uCmjkmMF28vYBE1V05Pm3fEZVqqCeftMAFu"
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
-        "name": "DIRECTV SPORTS 1",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumtDQJEBWxu6D8yDreJ+NMx80/6xIPYk20L647YcwZSjE",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv2.png?",
-        "name": "DIRECTV SPORTS 2",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SummSIIJWFjCgBUhoJyjYv73P8AYrCnXH/Iz3Ddy5+Irib",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
-      },
-      {
-        "icon": "http://static.dplay.tech/imagenes/dtv3.png",
-        "name": "DIRECTV SPORTS PLUS",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi6FegYRHISnaCHXn2y+781l"
+          "icon": "http://static.dplay.tech/imagenes/dtv1.png?",
+          "name": "Direc TV sports 1",
+          "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya+GVqh88ZzNzdGKizWW9jNC",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYgzsNmTA8AJNCiN4wp5ZzA",
+          "drm_scheme": "clearkey"
+       },
+       {
+          "icon": "http://static.dplay.tech/imagenes/dtv2.png?",
+          "name": "Direc TV sports 2",
+          "uri": "L1u9RWZeZGp/nLLgqq5F8NOohIaciVyER7dC/bGpya/RTipyVUQm+UZ42uovTImq",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZuga+rrV3NBzmmfcDDfTbN",
+          "drm_scheme": "clearkey"
+       },
+       {
+          "icon": "http://static.dplay.tech/imagenes/dtv3.png",
+          "name": "DIRECTV SPORT PLUS",
+          "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVCuppXpTkKbTfb7sHfVEB33rYRSr170He6l+x6FZNgsg==",
+          "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYKSkh9kTmPzWUG++g6HI07",
+          "drm_scheme": "clearkey"
       },
       {
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/ZGlyZWN0dl9zcG9ydHNfZmlnaHRfbGluZWFyX2NoYW5uZWw_11002_LOGO_360x270.png",
