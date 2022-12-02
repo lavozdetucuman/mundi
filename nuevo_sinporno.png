@@ -2016,37 +2016,27 @@
       },
       {
         "icon": "https://i.pinimg.com/474x/cf/86/a4/cf86a43cdf023a48e4ce1a2efb10f6b6.jpg",
-        "name": "HEMAN 24/7",
+        "name": "HEMAN",
         "uri": "lvkHsW5Xi9iaP+PsZnvqaAsFaWslBVeveBGVAwbUh203lMxRpFzZGQ1/KFOxxdmHua0N0E4/px3Sv3iXOrooBg=="
       },
       {
-        "icon": "http://televisatvdepaga.com/wp-content/uploads/2017/08/chavo.png",
-        "name": "EL CHAVO ANIMADO",
-        "uri": "lvkHsW5Xi9iaP+PsZnvqaHKWMeOjEn4tZT9eT9XVP5POUNFtwnA4itMmDM66QcbWhAQhEFY/ReWD13I7QVdYsDfPHXbxoLxRVc12Fw4bLaA="
-      },
-      {
         "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
-        "name": "BRIGADA COLA",
+        "name": "Brigada Cola",
         "uri": "2G4DmogZusLBmJv8BxnfDUQ8fFWBEDLhX6QsSWu57sN8RMw+GlJ12meKT0F2cVLw6lc+OUcJiUMKLPLFXcX1qg=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/casadosconhijos.jpg",
-        "name": "CASADOS CON HIJOS",
+        "name": "Casados con Hijos",
         "uri": "2G4DmogZusLBmJv8BxnfDUZqasX3ZNr2AGAVyvG3j9Nd6RSXiUkwey+lTwJZKM2kh6VZJ/e4ecSzs6vMvJUumA=="
       },
       {
         "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-70x70.png",
-        "name": "PELISMANIA",
+        "name": "Pelismania",
         "uri": "iPeoYYZ1jn0KkumPEHy+oB5q+rv/Z6izdGgZgG7Qm+jKyZ/JCpTmuAAci4h4QZHt"
       },
       {
-        "icon": "https://es.web.img3.acsta.net/pictures/19/02/15/17/18/5227942.jpg",
-        "name": "LOS SIMPSONS TEMP 1 TODOS LOS CAP. 24/7",
-        "uri": "kNu4LAA/2speXqQhMdIxLShTncv8kAXoOz3MPNJffE+aCDz0FP59mSjBt5NDG+phtyVAJdEnHRnvGTAfFiu9HA=="
-      },
-      {
         "icon": "https://www.bastitoys.cl/wp-content/uploads/2020/08/robotech-2.jpg",
-        "name": "ROBOTECH",
+        "name": "Robotech",
         "uri": "2G4DmogZusLBmJv8BxnfDaz7/zVcEXrhWcsZtclsEp0222iJ7Arsrz5X+qlGQQrRct0nfpeJ9aZO2UM4dGcDHg=="
       },
       {
@@ -2080,9 +2070,19 @@
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is02HqMA3paklewJVH54VozTQwp41H9utVF11RF9mgWfRg=="
       },
       {
+        "icon": "http://televisatvdepaga.com/wp-content/uploads/2017/08/chavo.png",
+        "name": "El Chavo Animado",
+        "uri": "lvkHsW5Xi9iaP+PsZnvqaHKWMeOjEn4tZT9eT9XVP5POUNFtwnA4itMmDM66QcbWhAQhEFY/ReWD13I7QVdYsDfPHXbxoLxRVc12Fw4bLaA="
+      },
+      {
         "icon": "http://x.playerlatino.live/chespirito.jpg",
         "name": "Chespirito",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0McQraE4HvdX1kzLA9hFBpiohXkU81crqTnZSV9XC8iA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/elchavodel8.png",
+        "name": "El Chavo del 8",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0T1bR6u3ELFSpZ/Z7jgAQslU0eP6Sj0RUrn95938zHbA=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/elgalloclaudio247.jpg",
@@ -2128,11 +2128,6 @@
         "icon": "http://x.playerlatino.live/dragonballz.png",
         "name": "Dragon Ball Z",
         "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2Q+7QJYJjTZSmrRtS2nzU1esuqsbggi6KfVJZpZfjTaQ=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/elchavodel8.png",
-        "name": "El Chavo del 8",
-        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0T1bR6u3ELFSpZ/Z7jgAQslU0eP6Sj0RUrn95938zHbA=="
       },
       {
         "icon": "http://x.playerlatino.live/elpajaroloco.png",
