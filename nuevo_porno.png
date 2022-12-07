@@ -17,6 +17,13 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdedXF/2C0TZdL4EooKUg6VYH"
       },
       {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
+        "name": "TV PUBLICA - p/ arsat",
+        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVgyGFzZHCRWYvnKCl6rXnIT98WxrCfu8A0cuaigS7dvg==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "kfnL5t/dzW4TjPFIWRmGa0wW+uQbw71WfnxxCJhkcRFqAWf9yGW9U1FrrdSSIAQu"
+      },
+      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
         "name": "CANAL 9",
         "drm_scheme": "clearkey",
