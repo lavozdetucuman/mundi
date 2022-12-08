@@ -10,25 +10,11 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam3BnwMFkHqUUAPFiJisTtjS6poy1pbxvsLQZ1uqwPBBH"
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png?=4",
-        "name": "AMERICA TV p/arsat ",
-        "drm_scheme": "clearkey",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXs6DLKl+3yOpVGK5YNofkZnMSa3V0Yvx/fENBgqFjUlQ==",
-        "drm_license_url": "GWOVvOU5U2N3R+xEnrKtgJ1oh6OzU22Lvu+LCHdmgtfxPvyCVfFWrx7GBkpT665P"
-      },
-      {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
         "name": "TV PUBLICA",
         "uri": "5YdyVi+PL8QZpLM9X5SumhqEzF66E7LtO1G5KLXQgWvVqZyCm8garUqXG4V/LO6nVp0F+7YMCaKBiP4U1inOwzYsmXHDJ/+jWl4VlPMcisM=",
         "drm_scheme": "clearkey",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam0OoGzKZPJJZmCEInlAVdedXF/2C0TZdL4EooKUg6VYH"
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png",
-        "name": "TV PUBLICA - p/ arsat",
-        "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnVgyGFzZHCRWYvnKCl6rXnIT98WxrCfu8A0cuaigS7dvg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "GWOVvOU5U2N3R+xEnrKtgPuMEuWyTIgDWFGxt0HsNJdC+pq4SxOxWSMsqjY4ZowF"
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",
@@ -496,7 +482,7 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27",
         "drm_scheme": "clearkey"
        },
-       {
+      {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
         "name": "DIRECTV SPORTS PLUS",
         "drm_scheme": "clearkey",
@@ -1763,18 +1749,18 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam26XvHOZ7J69pTcsITBASwBL63Rimw0Jg0dX/w7ZhXzwRBi0HUZYewE+yoGIR/dEcA=="
       },
       {
-        "icon": "http://static.dplay.tech/imagenes/tvciudad.png",
-        "name": "TV Ciudad",
-        "drm_scheme": "clearkey",
-        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xBMvIrxPdxlukDRQOqWeylx7SQnSEZNnnwf3CYA7c9j3v3vbM+pNzcPfxvFNra7DCLmN8WFVcO2daytMoqNE97",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam26XvHOZ7J69pTcsITBASwBwyJ4FsSLBCfQQq0NXoDsyDnECYSvXyfGO3yRSJk+p3A=="
-      },
-      {
         "icon": "https://images.istreamplanet.net/w_200.00000596046448,c_limit/dtv-latam-prod/c12f19ec-fff5-4f21-a599-2a3b10f70833.png",
         "name": "DIRECTV SPORT URUGUAY",
         "drm_scheme": "clearkey",
         "uri": "PwuDTb0e3u0Ac39lUoMret0jN3gcdaMbgTApuN2kLnXvYh/EGFelZ+CW1MVbSJyNmDms4FHJ0fALQmI4aB5+Vg==",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi68taO1dxVTX1ckkrnZe/RD"
+      },
+      {
+        "icon": "http://static.dplay.tech/imagenes/tvciudad.png",
+        "name": "TV Ciudad",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4xBMvIrxPdxlukDRQOqWeylx7SQnSEZNnnwf3CYA7c9j3v3vbM+pNzcPfxvFNra7DCLmN8WFVcO2daytMoqNE97",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam26XvHOZ7J69pTcsITBASwBwyJ4FsSLBCfQQq0NXoDsyDnECYSvXyfGO3yRSJk+p3A=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Canal_5_Uruguay.png/250px-Canal_5_Uruguay.png",
