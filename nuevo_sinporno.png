@@ -854,13 +854,6 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam60jqxAd67Bp90ez1V/QZ88nmrwr/ol5W/fyKrM8sQYN"
       },
       {
-        "icon": "https://geo.edge.pontiscloud.com:9002/images/315/CH_LOGO/80/80/0/0/86179590071069.png",
-        "name": "GOLDEN EDGE",
-        "drm_scheme": "clearkey",
-        "uri": "GC2/ddPzLVut0fvk2/wB4sf0zdIJAnPoywsoNp3EXyQNNGs6WugOOWzPG7Ti5hgTvebBzbgxmr7QGAoQb9VeqA==",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam7JZDZ73NQwFQ3TUOVZXPExo1L0qpMFCL1Up7WqqzDo5"
-      },
-      {
         "icon": "https://static.flow.com.ar/images/294/CH_LOGO/350/500/0/0/61143889072040.png",
         "name": "FX HD",
         "drm_scheme": "clearkey",
