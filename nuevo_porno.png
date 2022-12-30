@@ -2089,347 +2089,352 @@
       {
         "icon": "http://x.playerlatino.live/alf.png",
         "name": "Alf",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kR+NFNvlHqdit2oKKu5afdQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2CuWOykgB6gPRKFABR5GI11Vj9UwE2Rpk1T7vCJQnbDw=="
       },
       {
         "icon": "http://x.playerlatino.live/animaniacs.png",
         "name": "Animaniacs",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kegSAqYIg6WQSbAvbhg21iw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3pw2zhjkDB00VkU+FfoKNfM1/nACGVmChf8b50uOrLMg=="
       },
       {
         "icon": "http://x.playerlatino.live/bobesponja.png",
         "name": "Bob Esponja",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kJq8qL2TL37Bi3bVPt3LGOg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0U1Z5hK3mu9FvqnGArqRbkMiDbt+WE4kzkLthK1chpsQ=="
       },
       {
         "icon": "http://x.playerlatino.live/caballeroszodiaco.png",
         "name": "Caballeros del Zodiaco",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kjMaD7R9q17GgFl8cLF6ooQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is37JNo/0CzTsMeXpfKT9/6c"
       },
       {
         "icon": "http://x.playerlatino.live/cantinflas.png",
         "name": "Cantinflas",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kVtp2zHN7AcZFFQjEl76Hnw=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/chapulincolorado.png",
-        "name": "Chapulin Colorado",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kO2u5ENaV3yuAwuZ7j6ATZQ=="
-      },
-      {
-        "icon": "https://static.dplay.tech/imagenes/elchavoanimado.png",
-        "name": "El Chavo Animado",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kd6paT+DQXZtRujm2BbHKiQ=="
-      },
-      {
-        "icon": "http://x.playerlatino.live/chespirito.jpg",
-        "name": "Chespirito",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/khhGJywTgf5Sy8fRBTCNecQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1rjHljFMChuo5W75VLkm0fBmKAYsbXEYkLgkcwNBKHBQ=="
       },
       {
         "icon": "http://x.playerlatino.live/elchavodel8.png",
         "name": "El Chavo del 8",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kSZGGEEnhX+VzMA0BQNAX9Q=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0T1bR6u3ELFSpZ/Z7jgAQslU0eP6Sj0RUrn95938zHbA=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/chapulincolorado.png",
+        "name": "Chapulin Colorado",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is02HqMA3paklewJVH54VozTQwp41H9utVF11RF9mgWfRg=="
+      },
+      {
+        "icon": "http://x.playerlatino.live/chespirito.jpg",
+        "name": "Chespirito",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0McQraE4HvdX1kzLA9hFBpiohXkU81crqTnZSV9XC8iA=="
+      },
+      {
+        "icon": "https://static.dplay.tech/imagenes/elchavoanimado.png",
+        "name": "El Chavo Animado",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3ITbmSpOL/x4dyFUCnzoPEUpds0/47+GWLVOotAEvwtw=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/Caso_Cerrado.png",
         "name": "Caso cerrado",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kaDp/6bpbBVrwW2rL+k15bg=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgnGR7fT6jWN/UfBJpoxZAr+VfvgL+Matgl9ezX2Rlop+"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/csimiami.png",
         "name": "CSI: Miami",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kbdqVr0JOdqGc8TiWQsITcA=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgh8BK2K88lNt5q2tQkjARvdj6PPW32+ZTrle4sdd5Yk2"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/duckula247.jpg",
         "name": "El conde patula",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kQJJkjodVyn1KYLnq6QMs/g=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2V0kyznCp8Eh4Jfml/hfwXB1LWxIBCCbhokOQ0bhZkpg=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/futurama247.jpg",
         "name": "Futurama",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kvI9yHQ4bgFI7QmcwWBYXwg=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgl5sH5r9Q+rbae4L10Qae+lWKf2Mdz3g86fpFInWrg0b"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/ironman247.png",
         "name": "Iron man",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k7Y/f7UjLeuvpBsKFPl4tWw=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgkKklqkaZlGCFnUXapMrwaMYwAm+GtinxMLRIenHLttI"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/jorgelcurioso247.png",
         "name": "Jorge el curioso",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kqscm2wNtagFGDYQ7E/VG4w=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgng6yt99lTRcv1iu8l/0rIIc8wLQQiEKCR6RoLNsbWH3"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/larosadeguadalupe247.jpg",
         "name": "La rosa de guadalupe",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kYNAS8rnqzWpM4vq76p/pow=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgkwgn+VlLuYSUaOHu9s0QlnEXDlpmN1VFINvAZRJG9qD"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/letemesalaoscuridad247.jpg",
         "name": "Le temes a la oscuridad",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kyMyDCcjhg+5UImZFxNVu3A=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgtgKEE1+Q4gsImwck/bHcm2rpzdqgliKw/hgnlSRMpns"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/losanosmaravillosos247.jpg",
         "name": "Los años maravillosos",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k0oJQz2rOhDQY9YvrQGHr6Q=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgg/nz5wHGT5TgYvJToTGBvesUbm1G/ZAeV90Vr67wbvG"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/spiderman247.png",
         "name": "Spiderman",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k5CBWf4JLUqwzkzB9bov0Hg=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SglSS+SohStoSfZj9BI0o/PwYXtiC/pZl+d+0/F5rDhTE"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/garfield247.png",
         "name": "Garfield",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k04XhECtXBtf7d9vSjeEJhQ=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgrpQXa4rU9MjsxO4f5Px7M8ECqNDMWq88fPi8NNQxB/N"
       },
       {
         "icon": "http://api.argentinatv.live/logos/Malcominthemiddle.jpg",
         "name": "Malcolm",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kxW39orcMwZFVeiPJ2a3Iyw=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgubUYuNjyRbUPUgj5ZS5lOp/3+lCxbQguvGkQBEUW/SG"
       },
       {
         "icon": "https://api.argentinatv.live/logos/PadreDeFamilia.jpg",
         "name": "Padre de Familia",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kqsNYe8uCNaXBv8bVsJBkEQ=="
+        "uri": "6qjgIfuPNVtmiOnGEv3SgggpTCJAK0afujxtNwzivrzVhZCFh7P8dDLVxYQwhEVp"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/candy247.jpg",
         "name": "Candy candy 24/7",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k6g/K4VdKZxHDbuZqIASYag=="
+        "uri": "6qjgIfuPNVtmiOnGEv3Sgr0feICjy3Ua1dG9MKlWMqDwoelWmOYCBY4wy0MXCGpi"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/elgalloclaudio247.jpg",
         "name": "El gallo claudio",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k1heX/Gl/PjOVbBaQgLbiIQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1nlA3r/KFWEad52QdtO5XOaAbwMvU8hYwmV6sBwRe+1A=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/TBBT_logo.svg.png",
         "name": "The Big Bang Theory",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kHR44poWm5HghSl2W6A9IxA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1oduKZejaeFXqyXtUVZsOa8MnMH8pLLjJXK2KHYLGycg=="
       },
       {
         "icon": "http://x.playerlatino.live/coraje.png",
         "name": "Coraje el Perro Cobarde",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kN8IwtHfCBRWtJ+vdW7MB9Q=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1QKe0o7I2v1xQL8+jArqe2Kjsz1/5VL6uK5lZXPL6dRg=="
       },
       {
         "icon": "http://x.playerlatino.live/dinosaurios.png",
         "name": "Dinosaurios",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kB1Lv5dlU77VSKj90LC4Keg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Sjb7uNo8mxodekzwwAu2B0QC3Msun5Rl7FIcfvOpucQ=="
       },
       {
         "icon": "http://x.playerlatino.live/doraemon.png",
         "name": "Doraemon",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kESDwH6SwYqZ+WIJU6ngMzg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1MzKsYGPAFR/HcrTppasUqhlQ3aaAx2B40R6XDmduqwA=="
       },
       {
         "icon": "http://x.playerlatino.live/dragonball.png",
         "name": "Dragon Ball",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k8RcN6lQUiTGuHApiPLHwGQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0YOoZcETA1MTj0J9NL5NWAxe/1aytmByn3yYdbBkELVA=="
       },
       {
         "icon": "http://x.playerlatino.live/dragonballgt.png",
         "name": "Dragon Ball GT",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kEmseMpSgkyRkhDsTwNEGPw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0tChCTbh8wcvWqEi3/QsUGPNq4oCEPlMf6BIqf+QzOXQ=="
       },
       {
         "icon": "http://x.playerlatino.live/dragonballsuper.png",
         "name": "Dragon Ball Super",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k7B442qMLigrV9xK71V1X1A=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is28hkQS6MNuMsYIcJwRiqFONXGVOFa/v3jbW9Wn8BYrIQ=="
       },
       {
         "icon": "http://x.playerlatino.live/dragonballz.png",
         "name": "Dragon Ball Z",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/klPtPZ1cCLPBE4TTZRtysRw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2Q+7QJYJjTZSmrRtS2nzU1esuqsbggi6KfVJZpZfjTaQ=="
       },
       {
         "icon": "http://x.playerlatino.live/elpajaroloco.png",
         "name": "El Pajaro Loco",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kRbQEqmL91EkHSS5TOuDEvw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0pcwPvnA6L4yVImkWvSOKQdTseb5ljyq6K/50CiZeyzw=="
       },
       {
         "icon": "http://x.playerlatino.live/elprincipedelrap.png",
         "name": "El Principel del Rap",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kGQVuIdxjlKIN5/yHW9TWOg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1ipcsnYDLQD6OO+BV856Jy"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/pasiondegavilanes.jpg",
         "name": "Pasion de Gavilanes",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kiD+8WItkUo0fdvlZLZWT7A=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2cNsB0ELhIL/C7t5NF4ood1RKRyoDLXbcrkpCOHrbwoA=="
       },
       {
         "icon": "http://www.cine.com/media/series/2452.jpg",
         "name": "Game of Thrones",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kTFb2m6fK5Uprj6rLDUobuQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3D3Q3RZLCJw3eNRihyAnObhrN4EMQYFyGGwYbxV4uvZw=="
       },
       {
         "icon": "https://www.formulatv.com/images/series/posters/300/386/dest_3.jpg",
         "name": "The Walking Dead",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kCTTntjN/U1Si2YERekJFGA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2F60DITEI4rnugyXGls5yj7FEFZWwQN19fSK3sxWtETg=="
       },
       {
         "icon": "http://api.argentinatv.live/logos/heyarnold.png",
         "name": "Hey Arnold!",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kVa+bO9RWKX5mtp5Nx6Z7Hw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2YipdVKCpw6Z02QVGnOa7Xqte7D6I0aL38iY3wugMs/g=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/zoids.jpg",
         "name": "Zoids",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kxrIXX7DWZ2y5uFWFsHRNqQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is25uGedLy+aOUt6RhZfAMJkO0ARXKI+9Mq7ZFBKWGOQgQ=="
       },
       {
         "icon": "http://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png?itok=DYyKopHS",
         "name": "La Pantera Rosa",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kDoZyoBT/o61SWSqTHOwzsw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2oQ0lHam3T/wn3hoFvRbxOXthVKY2O9ck9q9CebxUu4w=="
       },
       {
         "icon": "http://api.argentinatv.live/logos/Juegosdelonneytunes.jpg",
         "name": "Looney Tunes",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kbRTz1oKYmYMeaowfFwSHiA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is13nDW6LrLs2pezIawtblNAM769etMzAEEQIaz/caKYSQ=="
       },
       {
         "icon": "http://api.argentinatv.live/logos/Familia_Simpson.png",
         "name": "Los Simpson",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kkD57ptIhz5Q+Pdv5ogUi+w=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2F/PYeDEdKLKVA9700DRe5v9iPflNB3rODzmpu0yRjpg=="
       },
       {
         "icon": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/bbc62fbd2f7c5259e2f9fec89ec073ed373de093a982759de84fde243709f14f._RI_V_TTW_.jpg",
         "name": "Mr. Bean",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kjfHhSGHVLok/ZiC9dvveDQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3UN2/csb9q8GyMnSN3IuWu"
       },
       {
         "icon": "https://api.argentinatv.live/logos/naruto.png",
         "name": "Naruto",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/klsl9KWecvmrJVEPLPendZA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3JNQoS299m2YLJeGhBU7t7p2MbwmuSRC9CWb79jv9srw=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/narutoshippuden.jpg",
         "name": "Naruto Shippuden",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kjdrK0ukDHCjGFHL7jqZ57Q=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2wWFSHWcpYJR9MlB7UwH8lCjse6drS4NooX68ZRUlxHA=="
       },
       {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-a-GzcojU_VZkrTiFKAYGvQJJpLbPCxUYmjys8JJxB0gvyj3frF-wiSiKhXjVumO1-Zo&usqp=CAU",
         "name": "One Punch Man",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kXxw6QF8H9J3A3R2rU5/3gw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3QNjqpeAHuvuQ4+pWdVfeFOIvzzy22PmfFwg80DJMATQ=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/pinkycerebro.png",
         "name": "Pinky y Cerebro",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k60eAcF0yJggwVP3Jhf8Org=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0pqwVDl1qrUsCiZy2As2a1LijWjlREXpmmYN5EIALM3g=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/pokemon.png",
         "name": "Pokemon",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/ktNbolMyGJX87Ipe2JtYqCQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is14puoA4gi8MpoMAwWPwZqNiBSvZ3vht/inoEzRs71IBg=="
       },
       {
         "icon": "http://api.argentinatv.live/logos/ranma.jpg",
         "name": "Ranma 1/2",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kg01cIiqlr9MZNuNttIRjnw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0En1HphxTAyPwhG79lzYfLjUFlwFJcw7uyyLHPRWp63A=="
       },
       {
         "icon": "https://api.argentinatv.live/logos/CardCaptorSakura.jpg",
         "name": "Sakura Card Captor",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kLKXyKOZObfClmEpEwJyQzA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is03uqzFt0JC3TWp9EdcOoA22nHhNs+fdTmnpiYVcZKdDw=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/mazingerz.jpg",
         "name": "Mazinger Z",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/ki8pvLk/xhfi6RoEE2Dauhw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3ZvcGxRi//sXFaFyt8L+bSNdTmqlkebOUdyY0hT3LUVw=="
       },
       {
         "icon": "https://api.argentinatv.live/logos/Samur%C3%A1i_X.jpg",
         "name": "Samurai X",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kyimKFlC7XRU4z2L2XBhR7A=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3rP10Sxx1R79szUlQXa2V/EN1U4UfbtZ0WjQnTwREDjw=="
       },
       {
         "icon": "https://malditopaparazzo.com.ar/wp-content/uploads/2020/12/scooby-doo-solo.jpg",
         "name": "Scooby Doo",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kizn5Ak2EyY1gdFv+sEJtbw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3i2H0OUVyMEA+fL4kD53iAgJDMvuAwXEpROUxalHPuBw=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/smallville.png",
         "name": "Smallville",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kGstZCo72fCzKh80fjlvS5w=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0zAYTHejOUZM7iX7ZxTSfafpytNesTVX591kZe/fQcnQ=="
       },
       {
         "icon": "https://imagenes.elpais.com/resizer/mo1Mwbc--vR9sQCiNvdleMjGuKg=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/6D2QWOSTQ5CMZFOGCMBDIH5FLE.jpeg",
         "name": "South Park",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kJWxqyPNon6yoTCN2SKjBpg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3EG0JQrnhABYAipB09MhNQXmvhapYrhInM81nzJpGIfQ=="
       },
       {
         "icon": "https://api.argentinatv.live/logos/supercampeones.jpg",
         "name": "Super Campeones",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kO/kogUpFWvViJIQltbJ6AA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is06BZcAl2Np0QUDh3xqAv9sBsWf+xygWo8RR0Pivffnkw=="
       },
       {
         "icon": "https://aurora-israel.co.il/wp-content/uploads/2021/07/TomandJerryTitleCardc.jpg",
         "name": "Tom y Jerry",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/krdFTX6cMICZwEZ9ck6Fjbw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0Ox8/fbR4FxnaJFoC9Xx9SXk7iFhsdM3Pzr+U6WVabeA=="
       },
       {
         "icon": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2016/10/trollhunters-cartel_0.jpg",
         "name": "TrollHunters",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k+k8ioi3u5iQHAOS8AeSwqg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1GwK8P48CAEl28qGOp6UUbiaqFItFpStT5DK46eZ8iuw=="
       },
       {
         "icon": "http://static.dplay.tech/imagenes/lospicapiedra247.jpg",
         "name": "Los picapiedra",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kFci9jHSydaDyb6EGNHPhCA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1oBx6AtjVIjTDW9/N9H1ss5dy//J7iobAN7uygpgpgIQ=="
       },
       {
         "icon": "https://api.argentinatv.live/logos/Yugioh.png",
         "name": "Yu-Gi-Oh!",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kR1TKBUBslUP2ID5nBsmvkA=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2XoXuUVTTBU0z7OMnQQe6jbLqd/DgnsPy/ElmScJMODw=="
       },
       {
         "icon": "https://x.playerlatino.live/twoandhalfmen.png",
         "name": "Two and half men",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kx7UjsFJ+qPqvzEQRdRFO1A=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is244A3f9U/fGFdhCgERlfCK8JU7TLnR9ZYmv+nsmom5/w=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/neongenesisevangelio.jpg",
         "name": "Neon Genesis Evangelion",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kC6J2dnZ76IFNpMHUcTJaAQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0KL1G1E0vnJNs/N12YxRK9JA8b1cFcPnvurGDqITC5gQ=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/ElfenLied.jpeg",
         "name": "Elfen Lied",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kwyNdR95+fLi1aXNcz2D/4w=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is1RLPS7ZaGDfPCt+pBeUL48O9Icaq0BUCHV1mGCcBp6+Q=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/lasaventurasdetomsawyer.jpg",
         "name": "Las aventuras de Tom Sawyer",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k74TnX6zMTtG70KaO9p+Wlg=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3yGjF3lmn2PLcFtu5Jd30O8i7CpN55Quh5IwZdf/PARA=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/unshowmas.jpg",
         "name": "Un Show Más",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kTKyoa6HywJXa8giTnvohxQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is3Er6JBrsILgysADMe2XyIBkWd1eDAkfJCQXDg/PbSvHg=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w185/vpnV0g2VOounP0kHNi86oBPceMY.jpg",
+        "name": "Hora de aventura",
+        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kYOQXCOTTaP0l5q3pFnQYwA=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/rickyandmorty.jpg",
         "name": "Rick y Morty",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k7Bi5TAO0pi8ohixmqCzPUQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2aPyElv43vjE6PxuhzGWli9A4i10odMBWKSFuifNttPA=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/bleach.png",
         "name": "Bleach",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/kUxaFgrdqT9mGH9aqMwNuag=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is32PiX/UWExsVfPtTWhyWCdZKjv/mPd3j6hv1hpT6TXZw=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/astroboy.jpg",
         "name": "Astro Boy",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k1GU8nw6wcwPdoC/VK/D+Bw=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0OA8CnHNljfpguQ18Dqs3Mx4kc8huMTfdPiV/FJgyIzA=="
       },
       {
         "icon": "https://static.dplay.tech/imagenes/deathnote.jpg",
         "name": "Death Note",
-        "uri": "FIo+OYSGLPZqiTcxm13yorvhkSOmTMNGyD82kw+YavH70stlPeCU/HWHjx2g6y/k8Y3MYWYtXOpQlYVBIVkjZQ=="
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is2biIuCZDY7sfQa43LryY56GaGGhWsJ02UYoHjpWTrjdA=="
       }
     ]
   }
