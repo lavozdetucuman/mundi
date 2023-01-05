@@ -1155,14 +1155,14 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam33Ex88e4NAKGRP5+nTJ4EZ3AfUk59JdPsiyaJof/AoP"
       },
       {
-        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMzE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1656693035915",
+        "icon": "http://static.dplay.tech/imagenes/dtvnews.png",
         "name": "Directv News",
         "drm_scheme": "clearkey",
         "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVD4sXm6qHfojMcnMo88ol+j",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi50dX5YUDp8MfEtE+i+z/9B"
       },
       {
-        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMjMwX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png?timestamp=1654531921068",
+        "icon": "http://static.dplay.tech/imagenes/ondtv.png",
         "name": "ON DIRECTV",
         "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVC8TfJCh3gEcL/qjsgcrvDg",
         "drm_scheme": "clearkey",
