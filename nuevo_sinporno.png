@@ -2363,6 +2363,36 @@
           "icon": "https://static.dplay.tech/imagenes/zenki.jpg",
           "name": "Zenki",
           "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVCZLmFZHeOb+IOcWOcmMyYS"
+        },
+         {
+          "icon": "http://static.dplay.tech/imagenes/friends.jpg",
+          "name": "Friends",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVDLChmqfu/EpPQlNpS1XyBC"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/hormiga.jpg",
+          "name": "La Hormiga Atomica",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVA5TdA/QBkbujgM5drslbRC"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/mascara.jpg",
+          "name": "La mascara",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBVeJcdn9DTVQnrPZ4OdjOA"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/vacaypollito.jpg",
+          "name": "La vaca y el pollito",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBz+nBODpSMhxJaBPjdv7lZ"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/thundercat.jpg",
+          "name": "Thundercat",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBUMLTG1oxjUjlbg/addwnM"
+        },
+        {
+          "icon": "http://static.dplay.tech/imagenes/yogui.jpeg",
+          "name": "Yogui",
+          "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVDlvAGH3ehXnSrsHmroEBKK"
         }
     ]
   }
