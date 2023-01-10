@@ -460,30 +460,30 @@
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv1.png",
-        "name": "DSports 1",
-        "uri": "mE1HknBiC6w90R89CUBLxgeVzHqyAJpMUkPkJr4kUYaIISgYpXPtqfDZbcsaJoZb",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw",
-        "drm_scheme": "clearkey"
+        "name": "Dsport 1",
+        "drm_scheme": "clearkey",
+        "uri": "tCCYHaXdfeE2UXGmWEN+OEUvj56AtfTWHQMNYiHIcwvYpNi75yRMkDek+tl1Ufu0",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7lEb+XwFPJejPAcPv16QPw"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv2.png",
-        "name": "DSports 2",
-        "uri": "mE1HknBiC6w90R89CUBLxgeVzHqyAJpMUkPkJr4kUYYKdEimHjlNGHTKMCqE+a4p",
-        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27",
-        "drm_scheme": "clearkey"
+        "name": "Dsport 2",
+        "drm_scheme": "clearkey",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBzVG76tvOAeDlQYPPo4WKc",
+        "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi7FbZQoTDB73Ln3nQoiDd27"
       },
       {
         "icon": "http://static.dplay.tech/imagenes/dtv3.png",
-        "name": "DIRECTV SPORTS PLUS",
+        "name": "Dsport 3",
         "drm_scheme": "clearkey",
-        "uri": "XxLRdt2lHZYH4ivykzOdm4neXrFXeDYejOWBZr3k2GQtS6Lo5CXMevj3c1XdmVWQOuRV3vKz1QhjDVuD5alLFg==",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVCcv3kbwPYILKstIaDG7AaE",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi6FegYRHISnaCHXn2y+781l"
       },
       {
         "icon": "https://static.dplay.tech/imagenes/dtvfight.png",
-        "name": "DirecTV Sports Fight",
+        "name": "DSports Fight",
         "drm_scheme": "clearkey",
-        "uri": "XxLRdt2lHZYH4ivykzOdm4neXrFXeDYejOWBZr3k2GSS4N0LgszblXlIJZ6s2Gt/j0l+JMMpAdGdEdmaxCSWzQ==",
+        "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVBmhggGU5kEOVFjv9xQPaja",
         "drm_license_url": "HCZtbqzut9luoVOjrMqam/oQslUOOxqDfb0I0JXgSi5/pvsX/MoWnzMickmITM8G"
       },
       {
