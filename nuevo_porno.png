@@ -549,6 +549,11 @@
           "uri": "5YdyVi+PL8QZpLM9X5SumnhBF21vBCZnFiPvkD/HUVALvTQ7zaK8mAnLOIHPHEpA"
         },
         {
+          "icon": "https://api.argentinatv.live/logos/tycsportplay.jpg",
+          "name": "TYC SPORTS (PLAY) 12",
+          "uri": "spvhXBhLhF2d+LXebaFasH8UZR2UDdrUPlOeWvBvoWRT/+ZPJLg5FbHw6XANmm4jnFdSbcFVgU8YCszUYH4jU3Sy+GV+qjLuRG5hde6xyKMS+bFNvAVv6rMA0cnqWVFc"
+        },
+        {
           "icon": "https://static.dplay.tech/imagenes/vtv.png",
           "name": "VTV",
           "drm_scheme": "clearkey",
