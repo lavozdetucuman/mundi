@@ -10,6 +10,13 @@
         "drm_license_url": "HCZtbqzut9luoVOjrMqam3BnwMFkHqUUAPFiJisTtjS6poy1pbxvsLQZ1uqwPBBH"
       },
       {
+        "icon": "https://static.dplay.tech/imagenes/americatv.png",
+        "name": "evento",
+        "drm_scheme": "clearkey",
+        "uri": "7esfuK8AT0fOXwT3zozs2MZ1RGdWlKTRbN/lnZigC0FEPWxx8Na0fj8rOsINb9rIcKeJYIY80ZKt32MlWPSK05WmdWAVluHMqd1OH9uLxdrvxuxTyRno6ePipFW6hbQPxdt3EtkBZu9SJducFV2ExQii5Wzqvsd40DIYjEf2lh8FOptVK7qdOmvwqKUgI9bM8zHIn9lXHcwrO8Ny78M0dN4wO11lB8ZeApAJoyLCfshyn/1MROiqSxe8oR8TfFdYNdTMmzORQ8Q3hILUhO4RA==",
+        "drm_license_url": "kfnL5t/dzW4TjPFIWRmGa8nXAdn/CnMxzE+SjEQUN1EW840fJpZknMYhoys1SBb3"
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/tvp.png",
         "name": "TV PUBLICA",
         "uri": "5YdyVi+PL8QZpLM9X5SumqAO7THQr6RglPBnpwLlP4zbuy3al0nLgXNDLLX/JNGESpYCPLd8J4A3bXlKB6YewHkJQNlJ1ekmQ3t4qaSEyug=",
