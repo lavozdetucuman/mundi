@@ -376,6 +376,11 @@
   {
     "name": "DEPORTIVOS",
     "samples": [
+       {
+        "icon": "http://static.dplay.tech/imagenes/daznf1.png",
+        "name": "DAZN F1",
+        "uri": "40x7g7hkccM3aNRJjOk+2g9lXQtEvgaLMHV3Ep/8E5x9aNx6p8Wc+NuYVX1m3GUH"
+      },
       {
         "icon": "https://img.sport-tv-guide.live/images/stations/a1164.png",
         "name": "BEIN SPORTS EXTRA",
