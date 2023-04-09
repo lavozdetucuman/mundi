@@ -1521,6 +1521,11 @@
     "name": "RADIOS",
     "samples": [
       {
+        "icon": "https://static.dplay.tech/imagenes/radiobeach.png",
+        "name": "RADIO BEACH",
+        "uri": "hTgSbAI89/cR6qMaKhqBq3PEJWWKHMmLM/EN3hFXZxua9aa46pTTx0wGgsm86dq0qcUqqze+jbJPofLPsJQJ4g=="
+      },
+      {
         "icon": "https://static.dplay.tech/imagenes/cubalibrefm.jpeg",
         "name": "CUBA LIBRE FM",
         "uri": "yA5zER/37ipqoR1ZWM6yJ6T417d8sOUTwUEidy7RZ++vYMm6BwTcv53/AfxKlPcN"
