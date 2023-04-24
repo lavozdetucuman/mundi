@@ -1952,6 +1952,51 @@
       }
     ]
   },
+      {
+    "name": "RADIOS",
+    "samples": [
+      {
+        "icon": "https://static.tvar.io/imagenes/radiobeach.png",
+        "name": "RADIO BEACH",
+        "uri": "hTgSbAI89/cR6qMaKhqBq3PEJWWKHMmLM/EN3hFXZxua9aa46pTTx0wGgsm86dq0qcUqqze+jbJPofLPsJQJ4g=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/cubalibrefm.jpeg",
+        "name": "CUBA LIBRE FM",
+        "uri": "yA5zER/37ipqoR1ZWM6yJ6T417d8sOUTwUEidy7RZ++vYMm6BwTcv53/AfxKlPcN"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/retrohit.jpeg",
+        "name": "RADIO RETROHIT IGUAZU 102.7",
+        "uri": "N6kw4F5p5IzmEeq+lpi/UWZaNZvyx1mIz60Xh70LFfSFvMTRANrb6h7id1NYxqMZ"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/radiohit.jpeg",
+        "name": "RADIO HIT IGUAZU 102.7",
+        "uri": "N6kw4F5p5IzmEeq+lpi/UZ8Ge4cSOkEdhb81bCtg0HjK3GzSe96caMQ76Mm25NCE"
+      },
+      {
+        "icon": "http://api.argentinatv.live/logos/logoatencio.png",
+        "name": "Dj Guillermo Atencio SetLive",
+        "uri": "N6kw4F5p5IzmEeq+lpi/UYkRZZKWyj/vZ//sTRkUTVM="
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/radioNacional.png",
+        "name": "RADIO NACIONAL",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+hTvnf8UF4+EK6la6btKRCZ"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/radioDelPlata.png",
+        "name": "RADIO DEL PLATA",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+i8PAwyD/OT8EtTo6ioUYbl"
+      },
+      {
+        "icon": "http://static.tvar.io/imagenes/radioMitre.png",
+        "name": "RADIO MITRE",
+        "uri": "zrB0XPmob4LB18cwyD/zdYNv7xdtmvKQJQxlHaClH+iw4RBBeoUEERec6uXUdUjB"
+      }
+    ]
+  },
   {
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
