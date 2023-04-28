@@ -184,6 +184,11 @@
         "uri": "eaw87ntVDVFR7f+hnJqHlB5MdfKq6c7IURnspjuv46El6SV3aYb82k1impqg1RQ5"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/canal4sanjuan.png",
+        "name": "Canal 4 San Juan",
+        "uri": "jlLfCOCD9zMTZ6nk4e//r+vMdESs5+z7/NM1TsCA/kdTUngUKvQCN7toJyic7cEzklUrbYnSMg6LegDSpIJteA=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/34sanjuan.png",
         "name": "Canal 34 San juan",
         "uri": "DJuvxS0eqr6q6X+M6sC9p58FUFTFFn4YsebzGF5g6lfEdUOeW0PjPeVSvN2sSFDwOonUi2CHL9zSIT804NA+1Q=="
@@ -191,7 +196,7 @@
       {
         "icon": "https://static.tvar.io/imagenes/albardontv.png",
         "name": "Albardon TV",
-        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwzDuakOZNlsmbeSoVeiiRkvBI3R58iMt1SJu7yYydEqwQ=="
+        "uri": "NTiWAUgEVQQJYpfwJWj1j/hAOCtISvSKRSNhJFo+QwxYdyV7x05mFoPauAupZgGLzM+WmemDlnl34hicgUmTCg=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/telefecba.png",
@@ -301,8 +306,8 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal9mendoza.png",
-        "name": "CANAL 9 DE MENDOZA",
-        "uri": "2ypEHixITLx1oPrJcKs0W0y0/dkoYQkRebkMZjUWNggbmoqpGumhImfGRLQosz/x6eYHMAY6aISLZGefT/7uLcdGo/NsUOxNDzZrWiBMBz4="
+        "name": "Canal 9 Mendoza",
+        "uri": "C/ngYgrG7qkMwpZN9FHCK1zXvX8DeVczLPCtXITv9KA="
       },
       {
         "icon": "https://static.tvar.io/imagenes/sietemendoza.jpg",
