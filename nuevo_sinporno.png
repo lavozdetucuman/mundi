@@ -138,10 +138,55 @@
         "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA TV",
         "uri": "2G4DmogZusLBmJv8BxnfDZbMPYwT1hxwzRn2pBSL1dbHRmt7L2M1g7XvzIsSKsrL5ZQM7F2dNGDCL2dmpsiTbAHRSAr5wEkyTd26/zZyLHU="
       },
+       {
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "SPTV SAN PEDRO",
+        "uri" : "tp2LMI6cP8qm/7N2YugT2U0D1sw0lwIlRAQqLdd7lzSd/RkatI5mcXOEtAZfMINDxukSbtqfAOpWe5Q/KuGj1g=="
+      },
       {
-        "icon": "http://static.tvar.io/imagenes/sptv32.png",
-        "name": "SAN PEDRO 32 TV",
-        "uri": "9h7+JngYB6NYrvnr44uzeqBWdQAVa3t/LauePc6/pXhVCbeZVNNtSmlU3I8gtga7guts6uPXg95YTOf8D8/wtuKcJwSijNFdo0Q75XFzfQhq9LJZsMXQ2M3UrSIickj/"
+        "icon": "http://static.dplay.tech/imagenes/sptv32.png",
+        "name": "SPTV SAN PEDRO 2",
+        "uri" : "tUJY21IyYazQI2cUOrQtCmBGOkADI7dwMkpkZVxzrXidQX9sOj/nDUF3oyZ5WQPF"
+      },
+      {
+        "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/2ed11fd7-27e6-4045-8df4-cee2a2b8a897-profile_image-300x300.png",
+        "name": "BAYRES TV",
+        "uri" : "hTgSbAI89/cR6qMaKhqBq1JIJ+KtEMFbtP1RT4oZewcLG/HmUjOTMsr6Q2UT7uHys5rdYMtXN+nkbcDNt/9nFA=="
+      },
+      {
+        "icon": "https://latinartv.com/sites/default/files/logos/gentv.jpg",
+        "name": "GEN TV",
+        "uri" : "t59uELZdayTJoFF5qUPb5DJUyr75prNNlKp3o5hklsf+N6r7JBFlQuYCdtdj112IdaBI/4SaN+CO4RLgC5LcBQ=="
+      },
+      {
+        "icon": "https://tvabierta.weebly.com/uploads/5/1/3/4/51344345/el-palomar-tv.png",
+        "name": "EL PALOMAR TV - TUCUMAN",
+        "uri": "pl7sa3p8TXIzEAPj+NnRo9TTugWHrvlvJ12TfBN5FarYGilZfJjRS4yUdyLBbeFtblO0L34m2eIUkj72oZUqnw=="
+      },
+      {
+        "icon": "https://scontent.faep14-3.fna.fbcdn.net/v/t39.30808-6/302327187_202132435495019_4503920185595533447_n.png?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=1pLsHXG26wcAX9CkoCE&_nc_ht=scontent.faep14-3.fna&oh=00_AfABveDoYjfJj5co3dEEGOnf8tAF024pU3xDLsCL22aPmQ&oe=63EE8388",
+        "name": "STREAMMAX JUJUY",
+        "uri": "d49cArSMSt7F6eve8+KsKjF4bqrAgkeRZQPe1T8TMSSLhy6FjQhzhlKqa2S5aOMtsFtjt1ZtjaCav3qbSjHoAA=="
+      },
+      {
+        "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png",
+        "name": "CHAMAME TV CORRIENTES",
+        "uri": "tp2LMI6cP8qm/7N2YugT2SiASWWo1M9/+EseO7Zs9JhXYTNjUWqITuj8pGj1LnyTQwzf7aJHJj7zGp1mgrwiHg=="
+      },
+      {
+        "icon": "https://lavozdesanpedro.com.ar/wp-content/uploads/2023/03/LOGO-FORMOSA-2.png",
+        "name": "SANTA CLARA SERVICIOS",
+        "uri": "tUJY21IyYazQI2cUOrQtCrpvZzLdPyM0Fc64C67LdTp2jiQAoUFo4FBU9yUQIxt0"
+      },
+      {
+        "icon": "https://oncedigital.com.ar/wp-content/uploads/2022/11/cropped-qqqqqq.png",
+        "name": "CANAL 11 MACHAGAY CHACO",
+        "uri": "tp2LMI6cP8qm/7N2YugT2b2i0ECa5FrOLzX9fOpW+Kb59CQWrfVKuQ2SemsW2FL5Kg0uaMnphO6pJsPuMpWx+w=="
+      },
+      {
+        "icon": "https://i0.wp.com/canal22web.com/wp-content/uploads/2018/05/cropped-logo-canal22.gif?fit=512%2C512&ssl=1",
+        "name": "CANAL 22 WEB",
+        "uri": "GBb0j5opB8UyqEiQj5yGQObGR7vAm+16hBBvI+Yq6TZm5L+0cQWLo7GTYjOyt27FXnPKotckOXVtxA8Xv1QUqzqmH606Oy3/L6jEXbc+RVM="
       },
       {
         "icon": "https://static.tvar.io/imagenes/multivisioncable.jpg",
