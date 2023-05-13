@@ -883,6 +883,13 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibau1j622JeWb8Wq8fHGWVAPNcQDl9AQl3uNzS2S8/5phA=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/dhe.png",
+        "name": "DHE",
+        "drm_scheme": "clearkey",
+        "uri": "KCvM+OPynjG3DbIxB3RnTtZHj1RgzUWlQYt2HyO/wMI8DRYpmb3KEVsi+J30YJshT4tclkF4WaentX7KvCTZqQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibao9KDoIZ95p8VZJd8Sn7ZF"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/cinecanal.png",
         "name": "CINECANAL",
         "drm_scheme": "clearkey",
