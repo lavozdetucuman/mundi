@@ -883,6 +883,13 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibau1j622JeWb8Wq8fHGWVAPNcQDl9AQl3uNzS2S8/5phA=="
       },
       {
+        "icon": "https://static.tvar.io/imagenes/dhe.png",
+        "name": "DHE",
+        "drm_scheme": "clearkey",
+        "uri": "KCvM+OPynjG3DbIxB3RnTtZHj1RgzUWlQYt2HyO/wMI8DRYpmb3KEVsi+J30YJshT4tclkF4WaentX7KvCTZqQ==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibao9KDoIZ95p8VZJd8Sn7ZF"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/cinecanal.png",
         "name": "CINECANAL",
         "drm_scheme": "clearkey",
@@ -2181,44 +2188,9 @@
         "uri": "GWOVvOU5U2N3R+xEnrKtgK8SdsGNcIGAUbprz5BWuUYZxdAPVw+PD3i8eS4vE2WltJ1HgCuK4FwEFK4s5qNTqg=="
       },
       {
-        "icon": "https://mir-s3-cdn-cf.behance.net/projects/404/1c472d33556683.Y3JvcCwxMTkyLDkzMywxNzcsMA.png",
-        "name": "Don Gato y su pandilla",
-        "uri": "0u7RtaCoyz0sIDXu0NxHua+1V6ug9HfKNKEVnlgJdksbdmeD0paWWzSqxnqUDYc4STBq4mjjWcfCckOXY2+qRw=="
-      },
-      {
-        "icon": "https://image.shutterstock.com/image-vector/kung-fu-logo-isolated-on-260nw-114273052.jpg",
-        "name": "Kung Fu",
-        "uri": "2G4DmogZusLBmJv8BxnfDU4FZ6vSqrGmclCb9uss8SB3445Eb1A0+ZNELFy/XVAKjm3AbBKGUAwUl/ybiwF0gg=="
-      },
-      {
-        "icon": "https://i.imgur.com/eq9q8KW.png",
-        "name": "Locomotion",
-        "uri": "P4rUDa6Dhzj2Kx75WJOoNnuPjwfkwNPLTK/UWpO4J5FNY1uLlrNddZZwEtQ7Fgb9"
-      },
-      {
-        "icon": "https://i.pinimg.com/474x/cf/86/a4/cf86a43cdf023a48e4ce1a2efb10f6b6.jpg",
-        "name": "HEMAN",
-        "uri": "lvkHsW5Xi9iaP+PsZnvqaAsFaWslBVeveBGVAwbUh203lMxRpFzZGQ1/KFOxxdmHua0N0E4/px3Sv3iXOrooBg=="
-      },
-      {
-        "icon": "https://www.qualityartworks.com.ar/wp-content/uploads/pi/pi0920/0920pi_negro_estampa-247x296.jpg",
-        "name": "Brigada Cola",
-        "uri": "2G4DmogZusLBmJv8BxnfDUQ8fFWBEDLhX6QsSWu57sN8RMw+GlJ12meKT0F2cVLw6lc+OUcJiUMKLPLFXcX1qg=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/casadosconhijos.jpg",
-        "name": "Casados con Hijos",
-        "uri": "2G4DmogZusLBmJv8BxnfDUZqasX3ZNr2AGAVyvG3j9Nd6RSXiUkwey+lTwJZKM2kh6VZJ/e4ecSzs6vMvJUumA=="
-      },
-      {
         "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c3237ce-0a3c-47f0-be0c-c4916e291807-profile_image-70x70.png",
         "name": "Pelismania",
         "uri": "eaw87ntVDVFR7f+hnJqHlC1YSOKYAoX07CSXr7Ek8pk="
-      },
-      {
-        "icon": "https://www.bastitoys.cl/wp-content/uploads/2020/08/robotech-2.jpg",
-        "name": "Robotech",
-        "uri": "2G4DmogZusLBmJv8BxnfDaz7/zVcEXrhWcsZtclsEp0222iJ7Arsrz5X+qlGQQrRct0nfpeJ9aZO2UM4dGcDHg=="
       },
       {
         "icon": "http://x.playerlatino.live/alf.png",
