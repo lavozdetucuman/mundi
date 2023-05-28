@@ -253,7 +253,9 @@
       {
         "icon": "https://static.tvar.io/imagenes/canal12cba.jpg",
         "name": "CANAL 12 CORDOBA",
-        "uri": "ODEQvHMVwmTqbdEI6aJKF/JAMpWKKrtDAmDocLEIKfZ1cVBxx2PUd0ASt3sbncQa3JYYyQCi9mXua/Z8+U5//tMWgmkoMSKe5Hr4zVCNlyE="
+        "uri": "dRfV8Wx8R8V6hwHwWuui3AQipffqa8kZctY83svOhh6xqZD8Az11XxKS6QPjrqBLpMZkWwaWqwNU8ws9EWzFlD7u3N+2OfI5kEF0YKoLTfo=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibacTurdcGt5CL9WqLg2eURaj1IeH3j8bAhpkCxQc/xHGg=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal10cba.jpg",
