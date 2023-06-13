@@ -101,6 +101,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZbPHNVwd+7MCeZ2+/b/j2f"
       },
       {
+        "icon": "https://lavozargentina.com/logochico.png",
+        "name": "LA VOZ ARGENTINA TV - Multiplataforma",
+        "uri": "2G4DmogZusLBmJv8BxnfDZbMPYwT1hxwzRn2pBSL1dbHRmt7L2M1g7XvzIsSKsrL5ZQM7F2dNGDCL2dmpsiTbAHRSAr5wEkyTd26/zZyLHU="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/nettv.png",
         "name": "NET TV",
         "drm_scheme": "clearkey",
