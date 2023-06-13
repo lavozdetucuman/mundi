@@ -101,6 +101,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZbPHNVwd+7MCeZ2+/b/j2f"
       },
       {
+        "icon": "https://lavozargentina.com/logochico.png",
+        "name": "LA VOZ ARGENTINA TV - Multiplataforma",
+        "uri": "2G4DmogZusLBmJv8BxnfDZbMPYwT1hxwzRn2pBSL1dbHRmt7L2M1g7XvzIsSKsrL5ZQM7F2dNGDCL2dmpsiTbAHRSAr5wEkyTd26/zZyLHU="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/nettv.png",
         "name": "NET TV",
         "drm_scheme": "clearkey",
@@ -142,11 +147,6 @@
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTqrqOQ0ikEZLwimI7LQfhEKGGQkSqkzQk57vTRevlkhQJayQcHyeenMn28I1IqZ290BiRXI3PwB7LGV41IKjiBk=",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbns54GoN/dCrKhq+mkYImnrJtjAVdl3HzTNZ75np3ojQ=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/lavozdetucuman.png",
-        "name": "LA VOZ DE TUCUMAN MULTIPLATAFORMA TV",
-        "uri": "2G4DmogZusLBmJv8BxnfDZbMPYwT1hxwzRn2pBSL1dbHRmt7L2M1g7XvzIsSKsrL5ZQM7F2dNGDCL2dmpsiTbAHRSAr5wEkyTd26/zZyLHU="
       },
       {
         "icon": "https://yt3.googleusercontent.com/-tA30i615UkGDDL-NfvfMx8eV0LqTj3ely88Ijg8LsKe-y7FelHARDgjOsSsgtgt5Gf8sGvG=s176-c-k-c0x00ffffff-no-rj",
