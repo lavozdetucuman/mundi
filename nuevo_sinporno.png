@@ -1582,6 +1582,16 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbH9GTT5SZjRPG52k0H9KQv"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/telemadrid.png",
+        "name": "TELE MADRID",
+        "uri": "ebhUzKey0fwrNWnHEJhdn8xC9g/8kXIBQWbE2T9Mv77Gl0QMxXrceHlXRuRpZfKd4bLiyTUgKqLCldNWQ8ePSQya3fK4bW0bsa6IMag7PiM+QVcQyktzn3Nl3RgbVvoR8t1Uug0RQyrLK0rsZpM+KA=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/tvgalicia.png",
+        "name": "TV GALICIA",
+        "uri": "cy2SVbTrwzeskb1mQeNuvbnlpYZF2t2tES7Say1RMpxHFQp+09BEfGJxnMjcY9nW0L3daNU1Rw55H5dVYxdIeQ=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/tv5monde.png",
         "name": "TV5MONDE AMERIQUE LATINE",
         "drm_scheme": "clearkey",
