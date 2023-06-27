@@ -864,7 +864,9 @@
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
         "name": "GOLDEN TV",
-        "uri": "W3qY3N2oxbp5wJfwSPpYL42H4+UoUfwZujZGWaP6tlkSU8ejdSu5102FiZBKyNjU+qCLA+WgNEuJaNwBQ5IdSSZRtNNEndxiKQw7rAMySVOOqief\/a0eq8zoEcivkdbWy9MB2KAqtqNe+NgBzhRKTxDVnmd93C0Qni192U3glbmF\/8Y6ib\/7NpB2BIL11kuWkVsz\/TpFZGypBrR2ZtwWOzM0AWtC8VEYY38MgYZwnq5qfloSgdz0Ba7SVhp3DqNp"
+        "uri": "iZOZmZVWNs2oB3F6WWQfFN3Yyer+hLCph4qPyKvuUxg5QX9WE670RSvRdMKWV8Vo142kSSjoshMUMmkpSID3Yg==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
       },
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
@@ -875,8 +877,10 @@
       },
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
-        "name": "GOLDEN MULTIPLEX -1 HORA",
-        "uri": "W3qY3N2oxbp5wJfwSPpYL42H4+UoUfwZujZGWaP6tlkSU8ejdSu5102FiZBKyNjU+qCLA+WgNEuJaNwBQ5IdSSZRtNNEndxiKQw7rAMySVOOqief\/a0eq8zoEcivkdbWy9MB2KAqtqNe+NgBzhRKTxDVnmd93C0Qni192U3glbmF\/8Y6ib\/7NpB2BIL11kuWkVsz\/TpFZGypBrR2ZtwWOzM0AWtC8VEYY38MgYZwnq5qfloSgdz0Ba7SVhp3DqNp"
+        "name": "GOLDEN TV MULTIPLEX 2 HORAS",
+        "uri": "iZOZmZVWNs2oB3F6WWQfFN3Yyer+hLCph4qPyKvuUxg5QX9WE670RSvRdMKWV8Vo142kSSjoshMUMmkpSID3Yg==",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
       },
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
@@ -886,7 +890,9 @@
       {
         "icon": "https://i.ibb.co/VNPbHtC/vix.png",
         "name": "GOLDEN PREMIER",
-        "uri": "zwBLkFwPpxhf7S7ZRbgE+ao9LaTOvTajtUr7fgFp7e3\/qmOzu\/ZRnxIlCETSyFv7r1t+vbm+iuzjstPqz0sJyZr8GIZtGxjrzByH\/c4FdBoUsdrj+7H\/CZ9FRhQadVl0"
+        "uri": "na9h5QocjQ\/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3hgnE\/6vJVClFodR+pDxKag5aVwGEXGmn1fuC1yBtpRpfi596QQ\/zqG9qL9RV4CiE0=",
+        "drm_scheme": "widevine",
+        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
