@@ -502,6 +502,13 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY+aQ/E20BW0d0YOWEU9HaN"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/espn4.png",
+        "name": "ESPN 4 HD",
+        "drm_scheme": "clearkey",
+        "uri": "DYWBx5NsG5BY2GsUNzRm6+boc1eK/UJV6P3QtKE6smkCxcR/QLikMvwUwXrMy+vQvGFBmRiJHJsFfFeHtX3ETg==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZM1EsL6kVEr/mrowpnSJGZ"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/espnextra.png",
         "name": "ESPN EXTRA",
         "drm_scheme": "clearkey",
