@@ -523,9 +523,9 @@
       {
         "icon": "https://static.tvar.io/imagenes/fs1.png",
         "name": "FOX SPORTS HD",
-        "drm_scheme": "clearkey",
-        "uri": "KCvM+OPynjG3DbIxB3RnTmCOXUryLhu0dfoDf4O1i7560X2dPPn2zBKjLMVPYe1nEV9rYqQ3yykt5BeruP0DwJKJ715uUdkRzm/UqUTMD+c=",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb3Ruhi7ArTg4YbjoWOXOub"
+        "drm_scheme": "widevine",
+        "uri": "U6NqFyLqAa/7gjAwOBrY9GlX7peVxyfk8hd4unTt1d6HYkg5eSdQRm7602zo8BYp5CZ+RTcz6xqRj4K268qBn1RqAdUWvQ7ExtcYLXJltrdCSA1yuvlNyExPSeMIP046",
+        "drm_license_url": "/mGM655KwcD2RhCNVH4Y/u0+4+8PXpMZFjrQjAUJnLpLgDh8z1URBC9G4k45bdEYS4JfVEXWp79Ts7fmamq02XXIKwvD56+OCmTZj/dEKG8Nt1knVpk2LU4+SU2iOkOd"
       },
       {
         "icon": "https://static.tvar.io/imagenes/fs2.png",
