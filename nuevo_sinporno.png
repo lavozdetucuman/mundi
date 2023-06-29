@@ -1292,10 +1292,8 @@
       },
       {
         "icon": "https://static.tvar.io/imagenes/tlnovela.png",
-        "name": "TL NOVELA",
-        "drm_scheme": "clearkey",
-        "uri": "na9h5QocjQ/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3hJt0N6BtTtFNtHsoSx+fAYkakhsR9QXpd3iDxn8eG7mQ==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZHpVWveJ4Ra25cQ3R5Oov3"
+        "name": "TL NOVELAS",
+        "uri": "fKZDeeMII4hzzOisytLJXJEdlala37QSwndyvjQ5is0xKQsf1gk6/Wn5eymWKynj"
       },
       {
         "icon": "http://static.tvar.io/imagenes/dtvnews.png",
