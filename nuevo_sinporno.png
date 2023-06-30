@@ -869,42 +869,24 @@
         "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibazAcSqzhpCXnHVTE9e19+wElLe4/fJ4X3Z65alRik6uQ=="
       },
       {
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFKJC1sb4lRMpdE5RnmGQT4FuFh6UwciWQQoBSzg2JybN17oNOw1VIU3ytymyrzTUWrLE&usqp=CAU",
-        "name": "MULTI PREMIER",
-        "uri": "zwBLkFwPpxhf7S7ZRbgE+ao9LaTOvTajtUr7fgFp7e3j1+1FtY2ht3rpucqnPmII1Aht2StAYdwDLRuvBTTLHiSnjqz3yoc9Sf2L42CxxZ+FCs5PVMVwm+G\/3X7SmyPJ"
+        "icon": "https://static.tvar.io/imagenes/golden.png",
+        "name": "GOLDEN",
+        "uri": "fKZDeeMII4hzzOisytLJXIvJz9qfPsY8tzGxmkMskeDRGeUQTZBpfy12X2S32CDe"
       },
       {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
-        "name": "GOLDEN TV",
-        "uri": "iZOZmZVWNs2oB3F6WWQfFN3Yyer+hLCph4qPyKvuUxg5QX9WE670RSvRdMKWV8Vo142kSSjoshMUMmkpSID3Yg==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
-      },
-      {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "icon": "https://static.tvar.io/imagenes/goldenedge.png",
         "name": "GOLDEN EDGE",
-        "uri": "iZOZmZVWNs2oB3F6WWQfFN3Yyer+hLCph4qPyKvuUxgglAfZ11qve9b1jBmQULQYjPlAIuitC01uA7y+S71wpYLCcyVMZ4Nc+zQDTS7qZeE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYzQ8lb3uayHFt5AkJ5I5NyWTh9QS47dmUVzw32PQ8dQg=="
+        "uri": "fKZDeeMII4hzzOisytLJXIvJz9qfPsY8tzGxmkMskeAr7P8MyPzlNEPfdd/+JxFz"
       },
       {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
-        "name": "GOLDEN TV MULTIPLEX 2 HORAS",
-        "uri": "iZOZmZVWNs2oB3F6WWQfFN3Yyer+hLCph4qPyKvuUxg5QX9WE670RSvRdMKWV8Vo142kSSjoshMUMmkpSID3Yg==",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
-      },
-      {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "icon": "https://static.tvar.io/imagenes/goldenplus.png",
         "name": "GOLDEN PLUS",
         "uri": "D2jLokBxFj/Mr0k2a6m34Jm3Be1eQLi9RUV5WEAdF0I3i/xbiLLHxbwNLhXGYY5r19AdR9oovNDEPFpg2r8x8WaOLmtmnl2h3szGlB80h1Q="
       },
       {
-        "icon": "https://i.ibb.co/VNPbHtC/vix.png",
+        "icon": "https://static.tvar.io/imagenes/goldenpremier.png",
         "name": "GOLDEN PREMIER",
-        "uri": "na9h5QocjQ\/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3hgnE\/6vJVClFodR+pDxKag5aVwGEXGmn1fuC1yBtpRpfi596QQ\/zqG9qL9RV4CiE0=",
-        "drm_scheme": "widevine",
-        "drm_license_uri": "baIMi5+GfGJU4+LYJMuDvsy8Mz8rx6uTSoe0GL43SJEEvxci9m30YFIjh7GEnYDWCYfoqLGFrxS\/PEGDwM3c6jode6RQHTlkeVh9XlAnSfpNtYH5H5JfWCbhVTiMJNbf"
+        "uri": "fKZDeeMII4hzzOisytLJXIvJz9qfPsY8tzGxmkMskeAN2r78zAO5SKxMjziHKX7q"
       },
       {
         "icon": "http://static.tvar.io/imagenes/tvcortoslog.png",
@@ -1786,14 +1768,14 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbfARH0wyX4za/QkY9aVz+v"
       },
       {
-        "icon": "https://www.moopio.com/system/entries/images/001/815/398/original/tigo-sports.png",
-        "name": "Tigo Paraguay",
-        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWqfKSJwLfUpGanr8CX6qxJQ=="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/motorsur.jpg",
         "name": "MOTOR SUR TV",
         "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXuK/c7bKrhzdAn5olPQrQDFrzGFyujeVZ/Y+vldtdL8dg=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/canal12regional.jpeg",
+        "name": "CANAL 12 REGIONAL YAGUARON",
+        "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXvg/Inyti/+gOosLRMUBC8IdZpjXloqV8XtwDSEAF5+c+enRXG1K2fcMDjsw3qHaQY="
       }
     ]
   },
