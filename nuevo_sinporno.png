@@ -2155,6 +2155,20 @@
         "uri": "eRu46h8kxVLWNzlfht\/1OH6eRexrqtgVtdPjXe20Sf9tkwFrt3P7hNQ0pz\/itPsN"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/espnpremium.png",
+        "name": "ESPN PREMIUM",
+        "drm_scheme": "clearkey",
+        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWZMVNvSB0oL2b/IZ+dVYlrREV4+e8iBwsOxo4doEJOVzVl8/YByHBHvSsJGasLM7fmy2XAD6TUvyISqvsSXzvL/KuouFzTJoTaNU3yJeGaBw==",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZOTqwcfdocsPhMkRth2HLrUci3Hs22kGmJ2S09R69FKQ=="
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/tntsports.png",
+        "name": "TNT SPORTS",
+        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFVUq+keEYxHjg3Hei2OsLS83wLlhwEjMPOGsv9RmuAb15XJJ7SwxqIdUZBi8rDYIVP8UTIuiROAkeFaSZcd09A3",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb9T6ifRKZQnLy7tQtgHgmjVDH8xF2QkqhF2oGbdmGdhw==",
+        "drm_scheme": "clearkey"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/diputadostv.png",
         "name": "DIPUTADOS TV",
         "uri": "SGcWc39XcLqtLm24HDPFsStw1NJ1fXPoe5345Xbv+YCvQaEG9HP3wIbIRFm3CrGiL//ZTG8eeKiQD3lWWMc2bAQNLAWK4GR1yHvh8xuQuEcrRuszLa5Jg4qtxUe1VR0S",
