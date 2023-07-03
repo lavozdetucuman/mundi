@@ -2200,6 +2200,13 @@
         "drm_scheme": "clearkey"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/discovery.png",
+        "name": "DISCOVERY",
+        "drm_scheme": "clearkey",
+        "uri": "TYyfNJ40HoPTo3KquZRT6+oyCZP9rvdZfmdTEijeMQSv6i\/wgBC7xRWeKbbqOzx81imBzwlQjKmwPMPSIe3Ozg==",
+        "drm_license_url": "GWOVvOU5U2N3R+xEnrKtgKEjBY1zqbg6496kaBZeVEdP6dYfMjNzn8nj7AAZKqAp"
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/diputadostv.png",
         "name": "DIPUTADOS TV",
         "uri": "SGcWc39XcLqtLm24HDPFsStw1NJ1fXPoe5345Xbv+YCvQaEG9HP3wIbIRFm3CrGiL//ZTG8eeKiQD3lWWMc2bAQNLAWK4GR1yHvh8xuQuEcrRuszLa5Jg4qtxUe1VR0S",
