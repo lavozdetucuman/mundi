@@ -658,6 +658,11 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaUvy/L3e49AcZqmHyGAbAy"
       },
       {
+        "icon": "https://static.tvar.io/imagenes/vtvplus.png",
+        "name": "VTV PLUS opcion 2",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWTsALrRJU5mdyqmKB655Fkg=="
+      },
+      {
         "icon": "https://static.tvar.io/imagenes/garagetv.png",
         "name": "GARAGE TV",
         "drm_scheme": "clearkey",
