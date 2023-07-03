@@ -2212,152 +2212,34 @@
     "name": "LOS SIMPSONS TODAS LAS TEMPORADAS",
     "samples": [
       {
-        "icon": "https://static.tvar.io/imagenes/americatv.png",
-        "name": "AMERICA TV ",
-        "drm_scheme": "clearkey",
-        "uri": "s+vOk8tvsRWcEw++mWUddcCTAz2vgknzYKUOQZQHP4JhQJicvHP7jQ9chHKVueZM4dX\/cgDQRnN8J4fC1\/4Uaw==",
-        "drm_license_url": "GWOVvOU5U2N3R+xEnrKtgJ1oh6OzU22Lvu+LCHdmgtfxPvyCVfFWrx7GBkpT665P"
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADA 1 AL 5",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKW5kRQjM5QDYGj8EFtNZeiPw=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tvp.png",
-        "name": "TV PUBLICA",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWCht/27RoGoXbPW2sx3wxAda+bhac9AtqVdrSBMNh5RTBKqnUTrqd48Ia/f7pbiQ8tGbsTXT3I8fL/eOVuDr/5",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZgChZGC0D/A1KpZWREOJ1J"
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADA 6 AL 11 ",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWnBowATX9QS3rI9zHazvWYg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/elnueve.png",
-        "name": "CANAL 9",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFW2i2Qujdxl4QfgR6UHqITWJ5AgFeE9vMv19bjE7tbKTxasRI/pjiutHjDMuED3b3i8F0WVLn+rkafbCAQ7kkZC",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb1e8b8+FROeKwEx0mzgpOa"
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADA 12 AL 17 ",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWi8\/xxZngj4\/eou7uOFne7Q=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/telefe.png",
-        "name": "TELEFE",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWSPEdQ2qHlMGifthHQ9znjkiaiziz9zbwwMHFfc2zbAX7et+sfxPjSkCVm42v8jPfUVzyglPYRJ7Nnlu+Flozh",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaGyf8KcCWmwyh7z/4vHRp3"
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADA 18 AL 21 ",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWbs2KedqF3acxRskwqTEBmg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/eltrece.png",
-        "name": "EL TRECE",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWsolSXHgxSqvpDrki8RdTgSivntbDGSDO9FG6z8n9vhxAuZi4mGUEz28huQVHhD8GqVKAvAAq/xfMjjcg85wFH",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYlYtzqo3sUhJStCy+OZe48"
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADA 27 AL 30 ",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKW3Sg3xji9HDn9Q9ST00peHg=="
       },
       {
-        "icon": "https://static.tvar.io/imagenes/tn.png",
-        "name": "TN NOTICIAS",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWhHZFAOimCC83N5wEQey8tBE0QaZTSxraxVmS22Wwsp4EB2GEKGyqDDJ0Phc9WVPIF6i3ieGWSF0zi4t3G+enm",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb4nt075RAbo6ZNJupa4qYI"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/a24.png",
-        "name": "A24",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWWW6y+82/Ye4MHnAcG0Lw8DJDKVYmY3pSntqTXI7kyK/COTY+0zrdq+a4jbiBcb0QXh6Wt6zNFAzhg6lPJuVw2",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY2WmUgP10xJ21/BnAOowam"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/c5n.png",
-        "name": "C5N",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWwNVBxMgRHP1IX4yKQGjsZ7LNBrwwWtBoOEjJRvDkWctWaQioFMF4X4QlfGpcH3Iw=",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYM51O6c9cb4EqxOntHRb1H"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/canal26.png",
-        "name": "CANAL 26",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWuwp271Rq34Sca1QTcX1QTAoT0A043wAfnt/gfxUwrpYAOtDcjFsM5idZ1rti5YuSrFgbYN3VL+TLuHHJ2tncR",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZDFZdZARpdKAwqpQhgNgAF"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/cronica.png",
-        "name": "CRONICA HD",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFXsb/uS9nWTDw8KHcWTzFCwSsfk1IiyfwWAcMFoqd3lGyp1Jy9iq9/4GWf9nqc4H6lOeGqjSUvghQk6wuxshDsh",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaO22fQPcDntVveE3/C2onG"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/lanacion.png",
-        "name": "LN+",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWdiFw1oyu7tsfwxyzcr2zmCRdpSBzqmkRjLHmmHez3elEC9EopNKaeuN2k4SOlOXzgFgtin9liuNFLe8RAhjZt",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZka9QpozNFkyIZ6eeUbm7I"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/ip.png",
-        "name": "INFORMACION PERIODISTICA",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWk4QEsOpE6Rn6GRpooCQg0Y5Z4ncBkmum823/ggE43sP2XGw4ZhBek1TGdkLTxmtQA99wXewKgGyT9sNSH+Z1olj3WhQv3MO43fmfnPsLwkF61rxt4uDsMGDnnv9dpmG0=",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYUU0JY8iEh4X8pH8OWxjMe"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/encuentro.png",
-        "name": "ENCUENTRO TV",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFX5IZIFW4g46JI0MKmgPx8ThJY3tv5Cvho05uMbkQrp5+5QFgrFy57JQFnVzh5vZCorUTYswB7Cd/FTNc+I8hue",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYRwY9AI+pHhgaCexa7ELwH8UniTJIl31GCARM89M5MSw=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/rural.png",
-        "name": "CANAL RURAL",
-        "drm_scheme": "clearkey",
-        "uri": "SGcWc39XcLqtLm24HDPFsStw1NJ1fXPoe5345Xbv+YBK70DfqQ9Q2TVS1Oz4kcTOp6WBsmcx5WZ/cN1BF2BoacYZpJOt3zep/qtjYS40aLQa8LaIUU9dHsyM0N3C1DGN",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZbPHNVwd+7MCeZ2+/b/j2f"
-      },
-      {
-        "icon": "https://lavozargentina.com/logochico.png",
-        "name": "LAVOZARGENTINA.com TV - Multiplataforma",
-        "uri": "0u7RtaCoyz0sIDXu0NxHuTUFKPj0V0p2n83HJlOX\/\/5mTJPhjy1PqMs1+8F50\/Q31QOV5cZzKetlDmgiUQg1s4RYynFZGWalt4ueRTYUplo="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/nettv.png",
-        "name": "NET TV",
-        "drm_scheme": "clearkey",
-        "uri": "SGcWc39XcLqtLm24HDPFsStw1NJ1fXPoe5345Xbv+YDvsDCsJsUI6rWQuMwYT/IvazIFrx1sidL7fYsrKD4Fa6KLrrkpgFVRyM8IQj0sX8M=",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbNG9CRikcuCPgxhl20+Odk"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/argentinisimasat.png",
-        "name": "ARGENTINISIMA SATELITAL",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFUzyGqS13qTbiObrGLPKtaWdg8Z3TpsMLmxbcGbWnUnDO7MC0GRrlMvvITJVg0m0ejJcPdzGInfRRcxKX6xDsL0",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibY+IVvngilDYS9d16Bm1D+0ekqBQ1xiffzHpE8rAkZ4IA=="
-      },
-      {
-        "icon": "https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png",
-        "name": "Canal 3 Argentina",
-        "uri": "W3CLNdYI0bXgYOzOmjJDHronUxP0sXMAwAJtJ85F\/orVuGbVD6nAQHObSn3GfaVLPk564PjRVO\/caq\/F0YpYGe2JmEyHe5dUBk1xJTiep3I="
-      },
-      {
-        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6x2_9H73AB2it7TOlPV9Ug5lwPcr0h2niA&usqp=CAU",
-        "name": "Teatrix TV",
-        "uri": "eRu46h8kxVLWNzlfht\/1OH6eRexrqtgVtdPjXe20Sf9tkwFrt3P7hNQ0pz\/itPsN"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/espnpremium.png",
-        "name": "ESPN PREMIUM",
-        "drm_scheme": "clearkey",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFWZMVNvSB0oL2b/IZ+dVYlrREV4+e8iBwsOxo4doEJOVzVl8/YByHBHvSsJGasLM7fmy2XAD6TUvyISqvsSXzvL/KuouFzTJoTaNU3yJeGaBw==",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZOTqwcfdocsPhMkRth2HLrUci3Hs22kGmJ2S09R69FKQ=="
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/tntsports.png",
-        "name": "TNT SPORTS",
-        "uri": "85wbMCT+JLwIVPf5uLLyvonMdJ/vWB87m8bEXurYBFVUq+keEYxHjg3Hei2OsLS83wLlhwEjMPOGsv9RmuAb15XJJ7SwxqIdUZBi8rDYIVP8UTIuiROAkeFaSZcd09A3",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibb9T6ifRKZQnLy7tQtgHgmjVDH8xF2QkqhF2oGbdmGdhw==",
-        "drm_scheme": "clearkey"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/diputadostv.png",
-        "name": "DIPUTADOS TV",
-        "uri": "SGcWc39XcLqtLm24HDPFsStw1NJ1fXPoe5345Xbv+YCvQaEG9HP3wIbIRFm3CrGiL//ZTG8eeKiQD3lWWMc2bAQNLAWK4GR1yHvh8xuQuEcrRuszLa5Jg4qtxUe1VR0S",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibZkCV4baXp3Ihc4hGFjEn25ec425l7f0/ZpzPFYUaAQnw=="
+        "icon": "https://static.tvar.io/imagenes/simpson.png",
+        "name": "LOS SIMPSONS TEMPORADAS VARIADAS ",
+        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKW5NjLejQvzAWoVA4ylN7W7w=="
       }
     ]
   },
