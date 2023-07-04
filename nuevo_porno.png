@@ -771,6 +771,13 @@
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTurnyxd4Biv8jWEpuOGRsD0mUfS1sXqkKyvMxkC4ug8wem64NmWKnmX7swci0yDw6arOqHtIvjbNZQzBB2RKc3g=",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibabUvrbzsnHmBk1iQmZ41zo"
+      },
+      {
+        "icon": "https://static.tvar.io/imagenes/dreamworks.png",
+        "name": "DREAM WORKS",
+        "drm_scheme": "clearkey",
+        "uri": "na9h5QocjQ/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3jXk+MAtQcpQ8wBbwjlcKhIOnp4AzUMJhA/FJW4y8Q9LDKFdbT31og+nIcKTrm+gpM=",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaebIWOACGgHmwBBAXQjWQgaw3vdgYkhgTryyB8Lk6bHA=="
       }
     ]
   },
@@ -1804,14 +1811,14 @@
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibbfARH0wyX4za/QkY9aVz+v"
       },
       {
-        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",
-        "name": "TIGO PARAGUAY",
-        "uri": "o/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB/9fKWqfKSJwLfUpGanr8CX6qxJQ=="
-      },
-      {
         "icon": "https://static.tvar.io/imagenes/motorsur.jpg",
         "name": "MOTOR SUR TV",
         "uri": "76Wkrp7B5W7fEMAwxf6Dg32akMhEAgWtxQ0AUNP1OXuK/c7bKrhzdAn5olPQrQDFrzGFyujeVZ/Y+vldtdL8dg=="
+      },
+      {
+        "icon": "https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png",
+        "name": "TIGO PARAGUAY",
+        "uri": "o/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB/9fKWqfKSJwLfUpGanr8CX6qxJQ=="
       },
       {
         "icon": "https://static.tvar.io/imagenes/canal12regional.jpeg",
@@ -2259,6 +2266,13 @@
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
       {
+        "icon": "https://directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png",
+        "name": "AZTECA UNO",
+        "uri": "AexSxQQcUVZPZwADaw6fsle3VmV9fX/8/vonFAL/xR7BvOm35DOSNJTg9/J5ZLQYjFuuR03m494x6vRJvIFWjA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYWgucGq/uJUgL8H6fCIsVFFcfgUAftbjGPVrvvY+TZ+A=="
+      },
+      {
         "icon": "https://i.ibb.co/q9HxQLD/gran-1-1.png",
         "name": "Gran Hermano Chile",
         "uri": "FYkKH4AdJqoCi+jhNj53m4JXIKBaOHjveLIYtvh5rjLJlNUIuIyRBKhjYbVFVMvJfF\/ld28x6GTBqIXkVBTFdw=="
@@ -2333,7 +2347,7 @@
         "name": "Maradona Sueño Bendito Amazone Prime capitulo 10 temporada 1",
         "uri": "eRu46h8kxVLWNzlfht/1OFEgcJUG52ypZuGMAtgyW0p5K2zQe81tHzgB/AyoJAyqvOsAwWqtVh4eDkNGlv0XcA=="
       },
-   {
+      {
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqPQDIthTyfoUt5008XOi5r18FPt7MzQahI4jOajYfz23i9Qyz7ZrtzQK6Yz8GQY7gFI&usqp=CAU",
         "name": "Casino Royale",
         "uri": "Sgd8yKRJ4UYOW9hnqm\/efET8V1mXiVdgjZJeDfMnTWt+shQ88bAgEZsg2m9syk7qpCcfmR6YNuzlevF0+JHmWA=="
