@@ -766,13 +766,6 @@
         "drm_scheme": "clearkey",
         "uri": "KCvM+OPynjG3DbIxB3RnTurnyxd4Biv8jWEpuOGRsD0mUfS1sXqkKyvMxkC4ug8wem64NmWKnmX7swci0yDw6arOqHtIvjbNZQzBB2RKc3g=",
         "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibabUvrbzsnHmBk1iQmZ41zo"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/dreamworks.png",
-        "name": "DREAM WORKS",
-        "drm_scheme": "clearkey",
-        "uri": "na9h5QocjQ/tt+fW2Cuo7zEjt0AgShmu7lNwGL9yM3jXk+MAtQcpQ8wBbwjlcKhIOnp4AzUMJhA/FJW4y8Q9LDKFdbT31og+nIcKTrm+gpM=",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaebIWOACGgHmwBBAXQjWQgaw3vdgYkhgTryyB8Lk6bHA=="
       }
     ]
   },
@@ -2260,13 +2253,6 @@
   {
     "name": "ALTERNATIVOS, 24/7, PLUTO TV, SERIES Y MAS PELIS",
     "samples": [
-      {
-        "icon": "https://directostv.teleame.com/wp-content/uploads/2018/01/Azteca-Uno-en-VIVO-Online-y-en-directo-directos-tv-mexico.png",
-        "name": "AZTECA UNO",
-        "uri": "AexSxQQcUVZPZwADaw6fsle3VmV9fX/8/vonFAL/xR7BvOm35DOSNJTg9/J5ZLQYjFuuR03m494x6vRJvIFWjA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibYWgucGq/uJUgL8H6fCIsVFFcfgUAftbjGPVrvvY+TZ+A=="
-      },
       {
         "icon": "https://i.ibb.co/q9HxQLD/gran-1-1.png",
         "name": "Gran Hermano Chile",
