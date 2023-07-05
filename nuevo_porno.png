@@ -654,13 +654,8 @@
         "icon": "https://static.tvar.io/imagenes/vtvplus.png",
         "name": "VTV PLUS",
         "drm_scheme": "clearkey",
-        "uri": "pgICKgoKXbD4UOHiUHLPHfFswTpzeBIzD7P8XE52lD66WXC3cVmhV0bh9pJx4YPaxZxL3AYLokbWZyoaJNySJePmLOZntY5ev6gBoaFPu1g=",
-        "drm_license_url": "rOPFGwL92lMqtHVi3VpAgLwZ0\/wQ6CvH09Cgz1R69TEtFiu3o4V5gG01n8iCk+Du"
-      },
-      {
-        "icon": "https://static.tvar.io/imagenes/vtvplus.png",
-        "name": "VTV PLUS opcion 2",
-        "uri": "o\/TcNLkmfOvWSvn8wLRGzGbemvoxrYRfZKsL4NRx0lsq+zURDDwKE3Wu3SB\/9fKWTsALrRJU5mdyqmKB655Fkg=="
+        "uri": "mE1HknBiC6w90R89CUBLxms/HXFEe3oFuB4wS1xEu5FvoDSHK4CLl99ethR5rkvy",
+        "drm_license_url": "fKZDeeMII4hzzOisytLJXCr7W8/RSvqlOcGFCnyYibaUvy/L3e49AcZqmHyGAbAy"
       },
       {
         "icon": "https://static.tvar.io/imagenes/garagetv.png",
